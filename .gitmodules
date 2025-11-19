@@ -1,0 +1,18 @@
+[submodule "olga/olgaroset.ru"]
+	path = olga/olgaroset.ru
+	url = git@github.com:stasazaryarozet/olgaroset.ru.git
+[submodule "olga/olgarozet.ru"]
+	path = olga/olgarozet.ru
+	url = git@github.com:stasazaryarozet/olgarozet.ru.git
+[submodule "olga/atlas-curation"]
+	path = olga/atlas-curation
+	url = git@github.com:stasazaryarozet/atlas-curation.git
+[submodule "olga/consultations"]
+	path = olga/consultations
+	url = git@github.com:stasazaryarozet/olgaroset.ru.git
+[submodule "olga/design-travels"]
+	path = olga/design-travels
+	url = git@github.com:stasazaryarozet/design-travels.git
+[submodule "github-incident-ballad"]
+	path = github-incident-ballad
+	url = git@github.com:stasazaryarozet/github-incident-ballad.git
