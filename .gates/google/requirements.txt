@@ -1,0 +1,10 @@
+# Google API
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+
+# Webhook Server
+flask
+
+# (Опционально) Production WSGI server
+# gunicorn

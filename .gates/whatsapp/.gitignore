@@ -1,0 +1,19 @@
+# Credentials (никогда не коммитить)
+credentials/
+sessions/
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.bak
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+

@@ -1,0 +1,77 @@
+# Единый источник данных для всех каналов коммуникации
+# Генерирует: olgaroset.ru, Telegram @olgarozet, и подстраницы
+
+meta:
+  name: "Ольга Розет"
+  title: "Художник"
+
+# Консультации
+consultations:
+  duration: "40 минут"
+  price: 15000
+  price_currency: "₽"
+  description: "Подключить меня к вашему делу"
+  link: "/booking/"
+  
+# События (ближайшие)
+events:
+  - id: "cdl-dec-2025"
+    date: "2025-12-02"
+    time: "12:00"
+    title: "Встреча в ЦДЛ"
+    full_title: "Человек и Ремесло. Всегда и Сейчас."
+    subtitle: "Встреча со мной"
+    location:
+      name: "ЦДЛ"
+      full_name: "Центральный дом литераторов"
+      address: "Поварская 50/53"
+      city: "Москва"
+    price: 5000
+    lunch_note: "Обед в ресторане ЦДЛ вы оплачиваете отдельно по меню ресторана"
+    capacity: 25
+    url: "chl/"
+    description: "Наблюдение, память, материя"
+    accessibility_note: "Нет 5 000 ₽? Возможно, что-нибудь придумаем. Пожалуйста, пишите."
+    
+  - id: "paris-jan-2026"
+    date: "2026-01-15"
+    date_range: "15–18+ января"
+    title: "Париж"
+    price: 1550
+    price_currency: "€"
+    url: "https://parisinjanuary.ru"
+    description: "4 дня. Ар-деко, фактуры, материалы"
+
+# Контакты
+contacts:
+  telegram_account: "ORozet"  # Личный аккаунт
+  telegram_channel: "olgarozet"  # Публичный канал
+  instagram: "olga_rozet"
+  email: "o.g.rozet@gmail.com"
+  
+# Принципы отображения по каналам
+channels:
+  website:
+    show_full_title: true
+    show_location_details: true
+    show_breadcrumbs: true
+    format: "подробно"
+    
+  telegram:
+    show_full_title: false  # короткие названия
+    show_location_details: false  # только "ЦДЛ"
+    show_breadcrumbs: false
+    format: "лаконично"
+    
+  instagram:
+    show_full_title: false
+    show_location_details: false
+    format: "минимально"
+
+# Мета-принципы
+meta_principles:
+  transparency: "Все цены и условия прозрачны сразу \"на берегу\""
+  accessibility: "Нет денег? Возможно, что-нибудь придумаем. Пожалуйста, пишите."
+  care_for_human: true
+  anonymous_publications: true
+

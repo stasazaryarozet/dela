@@ -1,0 +1,189 @@
+{
+  "api_version": "1.0",
+  "integration": "Дела ↔ Multitool Too",
+  "protocol": "file_based_bidirectional",
+  "location": "iCloud Drive/Дела/.context/",
+  
+  "endpoints": {
+    
+    "FROM_DELA_TO_MULTITOOL": {
+      
+      "state": {
+        "file": "to_multitool.json",
+        "format": "json",
+        "updates": "real_time",
+        "contains": [
+          "active_providers",
+          "integration_coverage",
+          "ready_actions",
+          "blockers",
+          "executable_commands"
+        ]
+      },
+      
+      "substance": {
+        "file": "substance_latest.json",
+        "format": "json",
+        "updates": "on_webhook",
+        "contains": [
+          "gmail_emails",
+          "calendar_events",
+          "drive_files",
+          "contacts",
+          "telegram_messages"
+        ]
+      },
+      
+      "content_ready": {
+        "file": "content_ready.txt",
+        "format": "text",
+        "updates": "when_generated",
+        "contains": "28_posts_for_instagram_telegram"
+      },
+      
+      "actions_executable": {
+        "file": "actions.sh",
+        "format": "bash_script",
+        "updates": "when_i_decide",
+        "contains": "commands_to_execute"
+      },
+      
+      "current_task": {
+        "file": "current_task.md",
+        "format": "markdown",
+        "updates": "continuous",
+        "contains": [
+          "what_im_doing",
+          "decisions_made",
+          "next_steps",
+          "blockers"
+        ]
+      }
+    },
+    
+    "FROM_MULTITOOL_TO_DELA": {
+      
+      "intentions": {
+        "file": "from_multitool_intentions.txt",
+        "format": "text",
+        "action": "write_new_intention_one_per_line",
+        "i_read": "on_file_change",
+        "i_respond": "update_current_task_and_actions"
+      },
+      
+      "quick_actions": {
+        "file": "from_multitool_quick.json",
+        "format": "json",
+        "action": "write_command",
+        "examples": [
+          {"action": "publish_now", "platform": "telegram", "post_id": 1},
+          {"action": "export_substance"},
+          {"action": "check_webhooks"},
+          {"action": "generate_content", "days": 7}
+        ]
+      },
+      
+      "data_input": {
+        "file": "from_multitool_data.json",
+        "format": "json",
+        "action": "provide_data_i_cant_access",
+        "examples": [
+          {"type": "instagram_insights", "data": {"reach": 1250, "engagement": 4.2}},
+          {"type": "telegram_channel_id", "value": "-1001234567890"},
+          {"type": "new_booking", "data": {...}}
+        ]
+      },
+      
+      "credentials": {
+        "file": "from_multitool_credentials.json",
+        "format": "json",
+        "action": "provide_tokens_from_oauth",
+        "security": "auto_delete_after_save_to_gates"
+      }
+    }
+  },
+  
+  "workflows": {
+    
+    "publish_content": {
+      "trigger": "multitool_writes_to_quick_actions",
+      "i_do": [
+        "read_post_from_content_ready",
+        "publish_via_telegram_gate",
+        "update_state"
+      ],
+      "multitool_sees": "updated_to_multitool.json"
+    },
+    
+    "new_email_arrives": {
+      "trigger": "gmail_webhook_fires",
+      "i_do": [
+        "export_substance",
+        "analyze_email",
+        "decide_action",
+        "write_to_actions.sh"
+      ],
+      "multitool_sees": [
+        "updated_substance_latest.json",
+        "updated_actions.sh"
+      ],
+      "multitool_can": "execute_actions_or_notify_user"
+    },
+    
+    "user_gives_intention": {
+      "trigger": "multitool_writes_to_intentions",
+      "i_do": [
+        "read_intention",
+        "analyze_available_providers",
+        "create_plan",
+        "generate_actions",
+        "update_all_context_files"
+      ],
+      "multitool_sees": "complete_updated_context"
+    }
+  },
+  
+  "multitool_implementation": {
+    
+    "shortcuts_to_create": [
+      {
+        "name": "Дела: Status",
+        "reads": ".context/to_multitool.json",
+        "shows": "coverage, ready actions, blockers"
+      },
+      {
+        "name": "Дела: Publish Post",
+        "reads": ".context/content_ready.txt",
+        "action": "copy first post → open Instagram → paste"
+      },
+      {
+        "name": "Дела: New Intention",
+        "input": "text from user",
+        "writes_to": ".context/from_multitool_intentions.txt",
+        "result": "Claude reads and acts"
+      },
+      {
+        "name": "Дела: Execute Actions",
+        "reads": ".context/actions.sh",
+        "shows": "checklist of actions",
+        "or": "SSH to Mac and execute"
+      },
+      {
+        "name": "Дела: Check Substance",
+        "reads": ".context/substance_latest.json",
+        "shows": "latest emails, events, files"
+      }
+    ],
+    
+    "automation_triggers": [
+      {
+        "name": "On file change: to_multitool.json",
+        "action": "show notification with ready actions"
+      },
+      {
+        "name": "Daily 9AM",
+        "action": "run 'Дела: Status' and show summary"
+      }
+    ]
+  }
+}

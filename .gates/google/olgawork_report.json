@@ -1,0 +1,900 @@
+{
+  "timestamp": "2025-11-16T16:29:11.449362",
+  "folders": [
+    {
+      "folder_name": "OLGAWORK",
+      "folder_id": "1S2Qy9fbOsy3VRT85ywDdBJ-uqp97pydt",
+      "folder_link": "https://drive.google.com/drive/folders/1S2Qy9fbOsy3VRT85ywDdBJ-uqp97pydt",
+      "modified": "2025-11-07T12:19:08.012Z",
+      "total_files": 0,
+      "files": []
+    },
+    {
+      "folder_name": "OLGAWORK",
+      "folder_id": "1OfcXKeH1PbEwmuwdlEjhCedo8xdfX91g",
+      "folder_link": "https://drive.google.com/drive/folders/1OfcXKeH1PbEwmuwdlEjhCedo8xdfX91g",
+      "modified": "2025-11-07T12:12:46.776Z",
+      "total_files": 118,
+      "files": [
+        {
+          "id": "10NxV4vBIKy2vnqcLMo-JjgnuFXrOfQX1",
+          "name": "открытка 2020 1.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/10NxV4vBIKy2vnqcLMo-JjgnuFXrOfQX1/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:30:01.736Z",
+          "size": "919788"
+        },
+        {
+          "id": "1C445teXRxLi5uhtMdkx4B3m3ru_uDal4",
+          "name": "открытка 2.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1C445teXRxLi5uhtMdkx4B3m3ru_uDal4/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:30:01.658Z",
+          "size": "985103"
+        },
+        {
+          "id": "1e6Zh5GIVpNjYVi-9yjHPrjooduZO-mdz",
+          "name": "открытка 2020.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1e6Zh5GIVpNjYVi-9yjHPrjooduZO-mdz/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:30:01.546Z",
+          "size": "925137"
+        },
+        {
+          "id": "1KVSz3upD2WhxMHF5vPdYkRRsdIZ-p5uH",
+          "name": "НГ4.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1KVSz3upD2WhxMHF5vPdYkRRsdIZ-p5uH/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:24:30.982Z",
+          "size": "796769"
+        },
+        {
+          "id": "1ykVzlB9-inEInk87s4wv8NPIXk1B_tOW",
+          "name": "открытка.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1ykVzlB9-inEInk87s4wv8NPIXk1B_tOW/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:24:23.322Z",
+          "size": "92098"
+        },
+        {
+          "id": "1hJj1S3WG_2ESvbuAtjhAVos_mHH8a-No",
+          "name": "НГ2.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1hJj1S3WG_2ESvbuAtjhAVos_mHH8a-No/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:24:06.015Z",
+          "size": "465901"
+        },
+        {
+          "id": "1edVnqZbm6FuaM-nKR7OKHr9sQgCxb0SS",
+          "name": "НГ3.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1edVnqZbm6FuaM-nKR7OKHr9sQgCxb0SS/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:24:05.162Z",
+          "size": "419729"
+        },
+        {
+          "id": "18rBgVYQWzdWXbdpO4BGol7txSVfuL7g-",
+          "name": "Родченко",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/18rBgVYQWzdWXbdpO4BGol7txSVfuL7g-",
+          "modifiedTime": "2025-11-07T12:24:02.271Z"
+        },
+        {
+          "id": "1OZOotKTs3ydXwg0t0Cl-E7z7xcI_3_Aw",
+          "name": "сделка",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1OZOotKTs3ydXwg0t0Cl-E7z7xcI_3_Aw",
+          "modifiedTime": "2025-11-07T12:24:02.271Z"
+        },
+        {
+          "id": "1x32jV6qk58M34FBY9GMp3O3Px82_-J2t",
+          "name": "пушкинский",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1x32jV6qk58M34FBY9GMp3O3Px82_-J2t",
+          "modifiedTime": "2025-11-07T12:24:02.271Z"
+        },
+        {
+          "id": "1mmgGOua5DL9N3g7-DJddxaEcQXHramtV",
+          "name": "психология цвета",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1mmgGOua5DL9N3g7-DJddxaEcQXHramtV",
+          "modifiedTime": "2025-11-07T12:24:02.271Z"
+        },
+        {
+          "id": "1_y4iidCMa5EeUJcys4WmumnLcqGbv-_J",
+          "name": "продажа",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1_y4iidCMa5EeUJcys4WmumnLcqGbv-_J",
+          "modifiedTime": "2025-11-07T12:24:02.271Z"
+        },
+        {
+          "id": "1I9YVeDRReyiHH3WL93j3wwTrVuiXMEv4",
+          "name": "росси",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1I9YVeDRReyiHH3WL93j3wwTrVuiXMEv4",
+          "modifiedTime": "2025-11-07T12:24:02.271Z"
+        },
+        {
+          "id": "1-UoqffK1V2ei14GknLLieoQdcjDpWRtN",
+          "name": "Психология",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1-UoqffK1V2ei14GknLLieoQdcjDpWRtN",
+          "modifiedTime": "2025-11-07T12:24:02.271Z"
+        },
+        {
+          "id": "1r6eaCyv3QBq4GyZvy6gqdmoh_HuaL0G0",
+          "name": "придумано и сделано в Росии",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1r6eaCyv3QBq4GyZvy6gqdmoh_HuaL0G0",
+          "modifiedTime": "2025-11-07T12:24:02.271Z"
+        },
+        {
+          "id": "1-MIPfF3YpuxfxSmT3HMCSS9HTz35O-Mf",
+          "name": "НГ1.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1-MIPfF3YpuxfxSmT3HMCSS9HTz35O-Mf/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:23:59.028Z",
+          "size": "537469"
+        },
+        {
+          "id": "1PtVf9FzEbi27rltvgMFT7jqeWN32VM24",
+          "name": "навоне.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1PtVf9FzEbi27rltvgMFT7jqeWN32VM24/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:23:57.430Z",
+          "size": "487013"
+        },
+        {
+          "id": "1WDWMQU-Cby4Onb5e4PtUCXqW-oT930-o",
+          "name": "НГ.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1WDWMQU-Cby4Onb5e4PtUCXqW-oT930-o/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:23:41.857Z",
+          "size": "59869"
+        },
+        {
+          "id": "1EbVgbyhpaWSeSwQmIrXCq6tYFc9is3Mx",
+          "name": "семья",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1EbVgbyhpaWSeSwQmIrXCq6tYFc9is3Mx",
+          "modifiedTime": "2025-11-07T12:23:18.042Z"
+        },
+        {
+          "id": "1WyRxMEUqNvrWiPxqi9I6mrjeBM-GH8x1",
+          "name": "Сельский дом в Хорватии _ Блог _Частная архитектура__files",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1WyRxMEUqNvrWiPxqi9I6mrjeBM-GH8x1",
+          "modifiedTime": "2025-11-07T12:23:18.042Z"
+        },
+        {
+          "id": "1q5UuD39mYbBKnUIpBMMA3sFWOTXZiF6H",
+          "name": "КОНЦЕПЦИЯ.odt",
+          "mimeType": "application/vnd.oasis.opendocument.text",
+          "webViewLink": "https://drive.google.com/file/d/1q5UuD39mYbBKnUIpBMMA3sFWOTXZiF6H/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:23:17.284Z",
+          "size": "633846"
+        },
+        {
+          "id": "1Llfobha4_VomNiq_8JpC2BtBk0JAcK1G",
+          "name": "КОНЦЕПЦИЯ 1 тв -ям.pdf",
+          "mimeType": "application/pdf",
+          "webViewLink": "https://drive.google.com/file/d/1Llfobha4_VomNiq_8JpC2BtBk0JAcK1G/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:23:11.167Z",
+          "size": "34942"
+        },
+        {
+          "id": "1X3GiD_xCcc-YxaSiSFHFrxBiQi-XBhvR",
+          "name": "ЗАЯВЛЕНИЕ АЛЬФА.pdf",
+          "mimeType": "application/pdf",
+          "webViewLink": "https://drive.google.com/file/d/1X3GiD_xCcc-YxaSiSFHFrxBiQi-XBhvR/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:22:43.436Z",
+          "size": "700386"
+        },
+        {
+          "id": "1CnJZnR-dNBPshym7W9PJ3-U9w1SeJLEb",
+          "name": "комбез.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1CnJZnR-dNBPshym7W9PJ3-U9w1SeJLEb/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:22:42.686Z",
+          "size": "558283"
+        },
+        {
+          "id": "1nidYH5pAA1d3UIlUrtpu6B3UgH1y_zj6",
+          "name": "Измайлов Ч.А., Соколов Е.Н. - Психофизиология цветового зрения - 1989.txt",
+          "mimeType": "text/plain",
+          "webViewLink": "https://drive.google.com/file/d/1nidYH5pAA1d3UIlUrtpu6B3UgH1y_zj6/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:22:40.889Z",
+          "size": "498428"
+        },
+        {
+          "id": "1XVL_YkfxBX3_mb8aGniqhpu9XxicaHjV",
+          "name": "калининград.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1XVL_YkfxBX3_mb8aGniqhpu9XxicaHjV/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:22:32.422Z",
+          "size": "178530"
+        },
+        {
+          "id": "1IBdsGCx0Bd1BfP_2_OR_wG4AEi_FBwnD",
+          "name": "кокошка.odt",
+          "mimeType": "application/vnd.oasis.opendocument.text",
+          "webViewLink": "https://drive.google.com/file/d/1IBdsGCx0Bd1BfP_2_OR_wG4AEi_FBwnD/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:22:27.303Z",
+          "size": "11115"
+        },
+        {
+          "id": "1mOYUDz6SIiV8PN6tv9x1B6XPYjTF7J9O",
+          "name": "ЗАЩИТА ДЕНЬ 25.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "webViewLink": "https://docs.google.com/document/d/1mOYUDz6SIiV8PN6tv9x1B6XPYjTF7J9O/edit?usp=drivesdk&ouid=113390243614741732962&rtpof=true&sd=true",
+          "modifiedTime": "2025-11-07T12:22:15.173Z",
+          "size": "11524"
+        },
+        {
+          "id": "1Wgnef9NdGCP_XOpFl-xo9ii4s_P72KSH",
+          "name": "ЗАЩИТА ВЕЧЕР  25.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "webViewLink": "https://docs.google.com/document/d/1Wgnef9NdGCP_XOpFl-xo9ii4s_P72KSH/edit?usp=drivesdk&ouid=113390243614741732962&rtpof=true&sd=true",
+          "modifiedTime": "2025-11-07T12:22:15.132Z",
+          "size": "12474"
+        },
+        {
+          "id": "1st4CT-i7HGPmZYhyjAsd3DHNs4n29I3Y",
+          "name": "ЕВРЕЙСКИЙ.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1st4CT-i7HGPmZYhyjAsd3DHNs4n29I3Y/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:22:11.790Z",
+          "size": "445186"
+        },
+        {
+          "id": "1IAbcQc-MxW1KSDouS58EAAdkdlkn7_QN",
+          "name": "доктор петя.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1IAbcQc-MxW1KSDouS58EAAdkdlkn7_QN/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:21:52.977Z",
+          "size": "616538"
+        },
+        {
+          "id": "1erri_iQOy4WgzaG0av1n6XHWCEWpPptj",
+          "name": "дпи.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1erri_iQOy4WgzaG0av1n6XHWCEWpPptj/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:21:50.482Z",
+          "size": "401445"
+        },
+        {
+          "id": "1tH5wE4C4d_7bYvQea946lQmsSrBoEIBb",
+          "name": "ДОКТОР ПЕТЯ.ps",
+          "mimeType": "application/postscript",
+          "webViewLink": "https://drive.google.com/file/d/1tH5wE4C4d_7bYvQea946lQmsSrBoEIBb/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:21:48.335Z",
+          "size": "270825"
+        },
+        {
+          "id": "1Prlk2NPs383kzih0OMw2EkAJwVkukfla",
+          "name": "ведомость.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1Prlk2NPs383kzih0OMw2EkAJwVkukfla/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:21:45.812Z",
+          "size": "1011270"
+        },
+        {
+          "id": "1vW9_S_u2KmJ1e30kGPk4J5B6yWrMfrVh",
+          "name": "ДИНАРА.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1vW9_S_u2KmJ1e30kGPk4J5B6yWrMfrVh/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:21:45.207Z",
+          "size": "133831"
+        },
+        {
+          "id": "16QEtfYgk0AOtuSG_zZb8hj5r5plsROZg",
+          "name": "Договор Розет[1] (2).docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "webViewLink": "https://docs.google.com/document/d/16QEtfYgk0AOtuSG_zZb8hj5r5plsROZg/edit?usp=drivesdk&ouid=113390243614741732962&rtpof=true&sd=true",
+          "modifiedTime": "2025-11-07T12:21:42.726Z",
+          "size": "44090"
+        },
+        {
+          "id": "1vmlB284k2k8Ud0AyTgcsJIN3uC5qA-Zf",
+          "name": "аптека.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1vmlB284k2k8Ud0AyTgcsJIN3uC5qA-Zf/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:21:35.619Z",
+          "size": "398628"
+        },
+        {
+          "id": "1XbnebIhM2Liwu7xVRqjaRwtFuRp1wWuC",
+          "name": "ВНУКОВО.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1XbnebIhM2Liwu7xVRqjaRwtFuRp1wWuC/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:21:33.992Z",
+          "size": "306074"
+        },
+        {
+          "id": "1ryQnjM0FyfMCM4Z_UGj1T8NcLaozVijl",
+          "name": "MRS OLGA ROZET.pdf",
+          "mimeType": "application/pdf",
+          "webViewLink": "https://drive.google.com/file/d/1ryQnjM0FyfMCM4Z_UGj1T8NcLaozVijl/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:21:33.362Z",
+          "size": "283224"
+        },
+        {
+          "id": "1pY7sLG689AFhCDT6HZRK3xe287RjRt56",
+          "name": "ГЭС 2.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1pY7sLG689AFhCDT6HZRK3xe287RjRt56/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:21:33.248Z",
+          "size": "261412"
+        },
+        {
+          "id": "1hPry3MnZFSU58Mn6f1l9T6B6-LqWwK4V",
+          "name": "ГЭС.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1hPry3MnZFSU58Mn6f1l9T6B6-LqWwK4V/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:21:33.191Z",
+          "size": "264558"
+        },
+        {
+          "id": "16jlGvCHA_vJ621XUG_8uALPIlEBB6Awq",
+          "name": "Thumbs.db",
+          "mimeType": "application/octet-stream",
+          "webViewLink": "https://drive.google.com/file/d/16jlGvCHA_vJ621XUG_8uALPIlEBB6Awq/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:21:23.972Z",
+          "size": "31744"
+        },
+        {
+          "id": "15bp_O8hPBg_nruSUuTFVyueWDL3g0Qnu",
+          "name": "Акт о приемке выполненных работ.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "webViewLink": "https://docs.google.com/document/d/15bp_O8hPBg_nruSUuTFVyueWDL3g0Qnu/edit?usp=drivesdk&ouid=113390243614741732962&rtpof=true&sd=true",
+          "modifiedTime": "2025-11-07T12:21:23.536Z",
+          "size": "9590"
+        },
+        {
+          "id": "1jMeaoEMGvPULIZRcF6Q7qiM21tU7qhAi",
+          "name": "Узбекистан",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1jMeaoEMGvPULIZRcF6Q7qiM21tU7qhAi",
+          "modifiedTime": "2025-11-07T12:21:09.456Z"
+        },
+        {
+          "id": "1LwJlAvSYvmiqxm6Nhwuemuv1OLfc8lMP",
+          "name": "ТБИЛИСИ",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1LwJlAvSYvmiqxm6Nhwuemuv1OLfc8lMP",
+          "modifiedTime": "2025-11-07T12:21:09.456Z"
+        },
+        {
+          "id": "1q_Ske2D8_ojT8zdzWpgLcwuJmj44vDiN",
+          "name": "СТЕПАНОВ",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1q_Ske2D8_ojT8zdzWpgLcwuJmj44vDiN",
+          "modifiedTime": "2025-11-07T12:21:09.456Z"
+        },
+        {
+          "id": "1bZeegpJLjcWWobJimM3knK_IR8Iy6EYo",
+          "name": "тест люшера",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1bZeegpJLjcWWobJimM3knK_IR8Iy6EYo",
+          "modifiedTime": "2025-11-07T12:21:09.456Z"
+        },
+        {
+          "id": "1BFRbXyMYiAichmv_kx_N0yiQo6EBgoFg",
+          "name": "сноб",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1BFRbXyMYiAichmv_kx_N0yiQo6EBgoFg",
+          "modifiedTime": "2025-11-07T12:21:09.456Z"
+        },
+        {
+          "id": "1jwOj4d548ozw1xv1PcAbttJ2a9-8LmfZ",
+          "name": "СП ИЮНЬ 25",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1jwOj4d548ozw1xv1PcAbttJ2a9-8LmfZ",
+          "modifiedTime": "2025-11-07T12:21:09.456Z"
+        },
+        {
+          "id": "1kh7UHA39Y3qRibF-qsTu5cJ9ITAlBfT7",
+          "name": "СОВРЕМЕННОЕ ИСКУССТВО И ИНТЕРЬЕР",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1kh7UHA39Y3qRibF-qsTu5cJ9ITAlBfT7",
+          "modifiedTime": "2025-11-07T12:21:09.456Z"
+        },
+        {
+          "id": "1JwQTeBSgTQ3HHg0w_clV5g6rtGkn4mG4",
+          "name": "сочи",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1JwQTeBSgTQ3HHg0w_clV5g6rtGkn4mG4",
+          "modifiedTime": "2025-11-07T12:21:09.456Z"
+        },
+        {
+          "id": "1lhp24ZryUFxElWGKPzlKaMf5usfYKnjB",
+          "name": "сербия",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1lhp24ZryUFxElWGKPzlKaMf5usfYKnjB",
+          "modifiedTime": "2025-11-07T12:21:09.456Z"
+        },
+        {
+          "id": "1Na5G58F100uSdnopHS9MC6SI9fAV721n",
+          "name": "ТРЕТЬЯКОВ 2025",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1Na5G58F100uSdnopHS9MC6SI9fAV721n",
+          "modifiedTime": "2025-11-07T12:21:09.456Z"
+        },
+        {
+          "id": "13WozC2v_Kxe8EtbOzUHU6hOGk_ZV6RB6",
+          "name": "Jerini-House-9.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/13WozC2v_Kxe8EtbOzUHU6hOGk_ZV6RB6/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:21:04.430Z",
+          "size": "516380"
+        },
+        {
+          "id": "1qmfFymATWyhHiCjO0RgTedVRye5eKAtH",
+          "name": "IMG_20200308_094342_502.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1qmfFymATWyhHiCjO0RgTedVRye5eKAtH/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:20:47.674Z",
+          "size": "64937"
+        },
+        {
+          "id": "1_-m8nGPWsfBvEStFDhPvWlCh5Xep2lFp",
+          "name": "эстер",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1_-m8nGPWsfBvEStFDhPvWlCh5Xep2lFp",
+          "modifiedTime": "2025-11-07T12:20:26.721Z"
+        },
+        {
+          "id": "1HTCUjgHz4x8is6DrjyEiBs8shQ1rnVVb",
+          "name": "фб",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1HTCUjgHz4x8is6DrjyEiBs8shQ1rnVVb",
+          "modifiedTime": "2025-11-07T12:20:26.721Z"
+        },
+        {
+          "id": "1AnSVs4L9QJryzH_uNv64Z_52ADPIaYOL",
+          "name": "фото пири пири",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1AnSVs4L9QJryzH_uNv64Z_52ADPIaYOL",
+          "modifiedTime": "2025-11-07T12:20:26.721Z"
+        },
+        {
+          "id": "1KQU_qvbtffO7pxLgOrvBB7A7GcxZZl1_",
+          "name": "ЦДЛ",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1KQU_qvbtffO7pxLgOrvBB7A7GcxZZl1_",
+          "modifiedTime": "2025-11-07T12:20:26.721Z"
+        },
+        {
+          "id": "13skjf8rZnaYk_dISZ33xdp2-89mU33HD",
+          "name": "эстетика онлайн",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/13skjf8rZnaYk_dISZ33xdp2-89mU33HD",
+          "modifiedTime": "2025-11-07T12:20:26.721Z"
+        },
+        {
+          "id": "11-nPnwPT033WcHEwOAhgRmdKq53MRWO-",
+          "name": "ФУДХОЛЛ",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/11-nPnwPT033WcHEwOAhgRmdKq53MRWO-",
+          "modifiedTime": "2025-11-07T12:20:26.721Z"
+        },
+        {
+          "id": "1Ne8J9nWZ6m9z6X7V6Obl_nnQp-3MarCf",
+          "name": "ЦДЛ для RA&FA",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1Ne8J9nWZ6m9z6X7V6Obl_nnQp-3MarCf",
+          "modifiedTime": "2025-11-07T12:20:26.721Z"
+        },
+        {
+          "id": "1MOygS1VVePEnMFOsGlloTHD-1c_pWLf5",
+          "name": "эстетика выставочного пространства",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1MOygS1VVePEnMFOsGlloTHD-1c_pWLf5",
+          "modifiedTime": "2025-11-07T12:20:26.721Z"
+        },
+        {
+          "id": "1ZIAcg1eRXmMbUx5nxd78nmZAdlvLaGWQ",
+          "name": "эфир",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1ZIAcg1eRXmMbUx5nxd78nmZAdlvLaGWQ",
+          "modifiedTime": "2025-11-07T12:20:26.721Z"
+        },
+        {
+          "id": "18O5jaGPhRTM8WdnVdMagoTrG7Zh8QWcz",
+          "name": "школа муравиной",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/18O5jaGPhRTM8WdnVdMagoTrG7Zh8QWcz",
+          "modifiedTime": "2025-11-07T12:20:26.721Z"
+        },
+        {
+          "id": "1uBmXASqokpDwAGsbi37VgCuZqZPkUebv",
+          "name": "3дпи.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1uBmXASqokpDwAGsbi37VgCuZqZPkUebv/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:20:26.022Z",
+          "size": "423189"
+        },
+        {
+          "id": "1JX_zEjNgqFl2aVonn6g3qEcI1P72IWWj",
+          "name": "2дпи.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1JX_zEjNgqFl2aVonn6g3qEcI1P72IWWj/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:20:25.423Z",
+          "size": "386589"
+        },
+        {
+          "id": "1_u42ZeZF3vuP7KzKkhrbYxQlBbPApHJu",
+          "name": "2021 1.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1_u42ZeZF3vuP7KzKkhrbYxQlBbPApHJu/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:20:22.818Z",
+          "size": "763748"
+        },
+        {
+          "id": "1Q-FBC5UDrTnA64qvLgjqbBg-exLz242e",
+          "name": "2021.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1Q-FBC5UDrTnA64qvLgjqbBg-exLz242e/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:20:22.318Z",
+          "size": "746936"
+        },
+        {
+          "id": "1irk9c8qHHOPfzlxA-LJoNfB_vMtpoNZm",
+          "name": "22222.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1irk9c8qHHOPfzlxA-LJoNfB_vMtpoNZm/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:20:22.056Z",
+          "size": "204566"
+        },
+        {
+          "id": "1aZEhsNpIHSyHUP-iMD_UdM3c98_pUbdo",
+          "name": "ed0176e74be5.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1aZEhsNpIHSyHUP-iMD_UdM3c98_pUbdo/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:20:19.552Z",
+          "size": "113452"
+        },
+        {
+          "id": "10j4OLQywP6oxyiPlVFRTF949BR4Mn1za",
+          "name": "GioPonti_2.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/10j4OLQywP6oxyiPlVFRTF949BR4Mn1za/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:20:18.052Z",
+          "size": "35714"
+        },
+        {
+          "id": "1x3JAuPhmC0ALUOXj4UECWrEmIACSlfUk",
+          "name": "gio_obl.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1x3JAuPhmC0ALUOXj4UECWrEmIACSlfUk/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:20:16.707Z",
+          "size": "31171"
+        },
+        {
+          "id": "1bJu24vtsz3PvK0ToZ_LSoxnHckvsZRdS",
+          "name": "Blagodarnost.doc",
+          "mimeType": "application/msword",
+          "webViewLink": "https://docs.google.com/document/d/1bJu24vtsz3PvK0ToZ_LSoxnHckvsZRdS/edit?usp=drivesdk&ouid=113390243614741732962&rtpof=true&sd=true",
+          "modifiedTime": "2025-11-07T12:20:15.801Z",
+          "size": "22016"
+        },
+        {
+          "id": "13lusR6cMKubteXfk3ErqMDdN9T-6oDdR",
+          "name": "22222.cdr",
+          "mimeType": "image/x-coreldraw",
+          "webViewLink": "https://drive.google.com/file/d/13lusR6cMKubteXfk3ErqMDdN9T-6oDdR/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:20:12.131Z",
+          "size": "379368"
+        },
+        {
+          "id": "18sOOA6NrCGjZMskWXDH9o9bs4XuFdtFl",
+          "name": "2021 it.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/18sOOA6NrCGjZMskWXDH9o9bs4XuFdtFl/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:20:08.895Z",
+          "size": "212115"
+        },
+        {
+          "id": "1UyTptJBsP4AY2hJ6PXkw5l42VJXJ1Xcz",
+          "name": "1открытка 2021.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1UyTptJBsP4AY2hJ6PXkw5l42VJXJ1Xcz/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:19:46.983Z",
+          "size": "488044"
+        },
+        {
+          "id": "1jtw7N-BxrJBPAsc94dqM-Zq3RZ75K5dp",
+          "name": "2.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1jtw7N-BxrJBPAsc94dqM-Zq3RZ75K5dp/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:19:46.308Z",
+          "size": "424892"
+        },
+        {
+          "id": "1ulWHHoxmZexDLx8UbCj3dHsuHNQRQYDs",
+          "name": "2 (1).jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1ulWHHoxmZexDLx8UbCj3dHsuHNQRQYDs/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:19:46.196Z",
+          "size": "424892"
+        },
+        {
+          "id": "1YbMaVr8bz_zQ5MY0F--4ofGF-A8W06X-",
+          "name": "1дпи.jpg",
+          "mimeType": "image/jpeg",
+          "webViewLink": "https://drive.google.com/file/d/1YbMaVr8bz_zQ5MY0F--4ofGF-A8W06X-/view?usp=drivesdk",
+          "modifiedTime": "2025-11-07T12:19:45.254Z",
+          "size": "382038"
+        },
+        {
+          "id": "1Eqvv6Ryb3bYgBGZbOLhv9djaFGj6n5ka",
+          "name": "2006-zakluchitelnoe-slovo-Berkalieva.doc",
+          "mimeType": "application/msword",
+          "webViewLink": "https://docs.google.com/document/d/1Eqvv6Ryb3bYgBGZbOLhv9djaFGj6n5ka/edit?usp=drivesdk&ouid=113390243614741732962&rtpof=true&sd=true",
+          "modifiedTime": "2025-11-07T12:19:24.609Z",
+          "size": "22528"
+        },
+        {
+          "id": "1Jr6dWx2JOyNqOsktcN-hFdIfq0J9jWSl",
+          "name": "2006-zakluchitelnoe-slovo-Dobrunin.doc",
+          "mimeType": "application/msword",
+          "webViewLink": "https://docs.google.com/document/d/1Jr6dWx2JOyNqOsktcN-hFdIfq0J9jWSl/edit?usp=drivesdk&ouid=113390243614741732962&rtpof=true&sd=true",
+          "modifiedTime": "2025-11-07T12:19:24.323Z",
+          "size": "22528"
+        },
+        {
+          "id": "1wvTNzrd9dhuhnfcAM_ZJ64M8MJj0SPSg",
+          "name": "colorskhool1",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1wvTNzrd9dhuhnfcAM_ZJ64M8MJj0SPSg",
+          "modifiedTime": "2025-11-07T11:57:15.243Z"
+        },
+        {
+          "id": "1ctZmZzBKAky5qScwluVqOjgPBO4l_0q6",
+          "name": "6 АДИ",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1ctZmZzBKAky5qScwluVqOjgPBO4l_0q6",
+          "modifiedTime": "2025-11-07T11:57:15.238Z"
+        },
+        {
+          "id": "1WFp7wmpurz0d1gacQhf1LklUg9kqSeeo",
+          "name": "INGLISH",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1WFp7wmpurz0d1gacQhf1LklUg9kqSeeo",
+          "modifiedTime": "2025-11-07T11:57:13.908Z"
+        },
+        {
+          "id": "1Dzy5mVSaRkunu4pdG4xGfrgRXR5Zbne3",
+          "name": "XX в ДИ",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1Dzy5mVSaRkunu4pdG4xGfrgRXR5Zbne3",
+          "modifiedTime": "2025-11-07T11:57:13.896Z"
+        },
+        {
+          "id": "12eq2QecF-VDjkkEE1wA27r5oWestY7Jo",
+          "name": "авангард",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/12eq2QecF-VDjkkEE1wA27r5oWestY7Jo",
+          "modifiedTime": "2025-11-07T11:57:13.889Z"
+        },
+        {
+          "id": "17bSddGEGDWYy-P5XvvNtO4RxEYqonLqR",
+          "name": "XX в ДИ - копия",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/17bSddGEGDWYy-P5XvvNtO4RxEYqonLqR",
+          "modifiedTime": "2025-11-07T11:57:13.881Z"
+        },
+        {
+          "id": "1uIPrw72slPE5BY7aiWLDaGyplSoBGCBu",
+          "name": "АННА",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1uIPrw72slPE5BY7aiWLDaGyplSoBGCBu",
+          "modifiedTime": "2025-11-07T11:57:13.870Z"
+        },
+        {
+          "id": "1Z_ZlAuZ8UWKnK2rHp7Kpu5__uA6pGp-F",
+          "name": "БОРГЕЗЕ",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1Z_ZlAuZ8UWKnK2rHp7Kpu5__uA6pGp-F",
+          "modifiedTime": "2025-11-07T11:57:13.783Z"
+        },
+        {
+          "id": "1YZ55XNFdaiUiCriAHj8j5D7TxPnbM0wf",
+          "name": "Анна Зиньковская",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1YZ55XNFdaiUiCriAHj8j5D7TxPnbM0wf",
+          "modifiedTime": "2025-11-07T11:57:13.781Z"
+        },
+        {
+          "id": "1vSpCYNZsikdoHAkUNVnKHC8HVTxZA1Y3",
+          "name": "билеты ГЭС",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1vSpCYNZsikdoHAkUNVnKHC8HVTxZA1Y3",
+          "modifiedTime": "2025-11-07T11:57:13.778Z"
+        },
+        {
+          "id": "14s9F94pc7FuuaPMjIQ0IM6bbfoDBXmFH",
+          "name": "британка фото реклама",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/14s9F94pc7FuuaPMjIQ0IM6bbfoDBXmFH",
+          "modifiedTime": "2025-11-07T11:57:13.696Z"
+        },
+        {
+          "id": "1dF-69JiyKEOBSnENOxenR_53EM2nVoar",
+          "name": "ВИЗА ИЮНЬ 25",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1dF-69JiyKEOBSnENOxenR_53EM2nVoar",
+          "modifiedTime": "2025-11-07T11:57:13.689Z"
+        },
+        {
+          "id": "1BlP2ooQjX-3KrzQ1_pFxxx1b9JJjS4JE",
+          "name": "ВНУКОВО",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1BlP2ooQjX-3KrzQ1_pFxxx1b9JJjS4JE",
+          "modifiedTime": "2025-11-07T11:57:12.608Z"
+        },
+        {
+          "id": "1Mh8O53q2daMTZcznNFjXZuscyCncYwQD",
+          "name": "ВП блиц-проект",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1Mh8O53q2daMTZcznNFjXZuscyCncYwQD",
+          "modifiedTime": "2025-11-07T11:57:12.581Z"
+        },
+        {
+          "id": "13UyLuAsRsGQSVx1wc_C40H9UZAlQ2Yj4",
+          "name": "выставки",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/13UyLuAsRsGQSVx1wc_C40H9UZAlQ2Yj4",
+          "modifiedTime": "2025-11-07T11:57:12.491Z"
+        },
+        {
+          "id": "1LPDeZvSLDxI19uTlTJY76JJLqXP6R85L",
+          "name": "ДЕКОР  КОВРЫ",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1LPDeZvSLDxI19uTlTJY76JJLqXP6R85L",
+          "modifiedTime": "2025-11-07T11:57:12.486Z"
+        },
+        {
+          "id": "1ZMxVyXqgeWI814tnWcoOBliKptUKmwbk",
+          "name": "ДАНТОН",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1ZMxVyXqgeWI814tnWcoOBliKptUKmwbk",
+          "modifiedTime": "2025-11-07T11:57:12.483Z"
+        },
+        {
+          "id": "1_zy3I2LP1TwQwxcoOtxaKYFkETStY7BN",
+          "name": "декораторы весна 22",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1_zy3I2LP1TwQwxcoOtxaKYFkETStY7BN",
+          "modifiedTime": "2025-11-07T11:57:12.473Z"
+        },
+        {
+          "id": "1HS2nipzHg1_K7oG0N2Btwm-sUn8SGQFA",
+          "name": "Джаз",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1HS2nipzHg1_K7oG0N2Btwm-sUn8SGQFA",
+          "modifiedTime": "2025-11-07T11:57:12.472Z"
+        },
+        {
+          "id": "1LsILL93DVtNLE3DbwhYANAFzQ0NOuIWm",
+          "name": "ДЕКОРИРОВАНИЕ",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1LsILL93DVtNLE3DbwhYANAFzQ0NOuIWm",
+          "modifiedTime": "2025-11-07T11:57:12.472Z"
+        },
+        {
+          "id": "1y-zPvlkL3msf3gI0UQAHkQ80eViEeF1Z",
+          "name": "ДИ 24",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1y-zPvlkL3msf3gI0UQAHkQ80eViEeF1Z",
+          "modifiedTime": "2025-11-07T11:57:12.375Z"
+        },
+        {
+          "id": "1vN2tfVGQkU7mtDvzLWVMcNsRJkqNg8NU",
+          "name": "ДИБК ДЕКОР",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1vN2tfVGQkU7mtDvzLWVMcNsRJkqNg8NU",
+          "modifiedTime": "2025-11-07T11:57:12.370Z"
+        },
+        {
+          "id": "1uY5HqCKz3wK7OL_NN3xgCr50-oMIp542",
+          "name": "договор",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1uY5HqCKz3wK7OL_NN3xgCr50-oMIp542",
+          "modifiedTime": "2025-11-07T11:57:11.522Z"
+        },
+        {
+          "id": "1XA8gyBkldoUnXYLNwWOFsU3CkUiYxZNz",
+          "name": "диссер презентация",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1XA8gyBkldoUnXYLNwWOFsU3CkUiYxZNz",
+          "modifiedTime": "2025-11-07T11:57:11.508Z"
+        },
+        {
+          "id": "1l2Fx-U8vqDKcMXYQ9Q2Ili2JIGXfI1Yq",
+          "name": "здоровье 24",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1l2Fx-U8vqDKcMXYQ9Q2Ili2JIGXfI1Yq",
+          "modifiedTime": "2025-11-07T11:57:11.442Z"
+        },
+        {
+          "id": "1ctmWaG8aKCdQ_pSKYWNEsDsbEFYsJPLc",
+          "name": "место встречи",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1ctmWaG8aKCdQ_pSKYWNEsDsbEFYsJPLc",
+          "modifiedTime": "2025-11-07T11:57:11.421Z"
+        },
+        {
+          "id": "1CZeRBRm7orxz3Js-OPVJE2EmQIBc-A4t",
+          "name": "ИММУНОЛОГ 23",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1CZeRBRm7orxz3Js-OPVJE2EmQIBc-A4t",
+          "modifiedTime": "2025-11-07T11:57:11.419Z"
+        },
+        {
+          "id": "1Qp6ZNDcwYZegXl2fd5MNla8Szsin7k0b",
+          "name": "махачкала",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1Qp6ZNDcwYZegXl2fd5MNla8Szsin7k0b",
+          "modifiedTime": "2025-11-07T11:57:11.419Z"
+        },
+        {
+          "id": "1KhaBoWCnPUyKaLYqYxFd1iuphVDeyYHG",
+          "name": "КРАСКИ",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1KhaBoWCnPUyKaLYqYxFd1iuphVDeyYHG",
+          "modifiedTime": "2025-11-07T11:57:11.411Z"
+        },
+        {
+          "id": "1wJH8WVHDUF0nLyYWegc3JHe3P1mGa3c-",
+          "name": "КОЛОРИСТИКА 25",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1wJH8WVHDUF0nLyYWegc3JHe3P1mGa3c-",
+          "modifiedTime": "2025-11-07T11:57:11.410Z"
+        },
+        {
+          "id": "1ep3Y0YS-lUSQ3ZU8XLOBGkEKHYBAzIkX",
+          "name": "НАГРАЖДЕНИЕ 2013",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1ep3Y0YS-lUSQ3ZU8XLOBGkEKHYBAzIkX",
+          "modifiedTime": "2025-11-07T11:57:11.317Z"
+        },
+        {
+          "id": "1cx_-iJP9ckiqVp-vAlgdOyXs3lMxleoS",
+          "name": "МУРАВИНА",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1cx_-iJP9ckiqVp-vAlgdOyXs3lMxleoS",
+          "modifiedTime": "2025-11-07T11:57:11.311Z"
+        },
+        {
+          "id": "1lZm5unxBjpw1e21M10YqHDauDACn0At8",
+          "name": "орёл",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1lZm5unxBjpw1e21M10YqHDauDACn0At8",
+          "modifiedTime": "2025-11-07T11:57:10.347Z"
+        },
+        {
+          "id": "164A8sYZPQAJNFi6hC_-jWuRca2gGLW30",
+          "name": "нико",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/164A8sYZPQAJNFi6hC_-jWuRca2gGLW30",
+          "modifiedTime": "2025-11-07T11:57:10.336Z"
+        },
+        {
+          "id": "1in73F7cjXt_aFB7XgazgX4ZydrNapwKR",
+          "name": "париж",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1in73F7cjXt_aFB7XgazgX4ZydrNapwKR",
+          "modifiedTime": "2025-11-07T11:57:10.267Z"
+        },
+        {
+          "id": "1XK3eZFRj85FjkU7xJwgk5QZR5QyMsPrT",
+          "name": "пермь",
+          "mimeType": "application/vnd.google-apps.folder",
+          "webViewLink": "https://drive.google.com/drive/folders/1XK3eZFRj85FjkU7xJwgk5QZR5QyMsPrT",
+          "modifiedTime": "2025-11-07T11:57:10.263Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": -1002688231781,
+    "status": "error: The chat or channel wasn't modified (title, invites, username, admins, etc. are the same) (caused by TogglePreHistoryHiddenRequest)"
+  },
+  {
+    "id": -1003208406348,
+    "status": "error: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by TogglePreHistoryHiddenRequest)"
+  },
+  {
+    "id": -1002434489044,
+    "status": "error: The chat or channel wasn't modified (title, invites, username, admins, etc. are the same) (caused by TogglePreHistoryHiddenRequest)"
+  },
+  {
+    "id": -1002616923445,
+    "status": "error: The chat or channel wasn't modified (title, invites, username, admins, etc. are the same) (caused by TogglePreHistoryHiddenRequest)"
+  },
+  {
+    "id": -1002399539099,
+    "status": "error: The chat or channel wasn't modified (title, invites, username, admins, etc. are the same) (caused by TogglePreHistoryHiddenRequest)"
+  },
+  {
+    "id": -1002293661920,
+    "status": "error: The chat or channel wasn't modified (title, invites, username, admins, etc. are the same) (caused by TogglePreHistoryHiddenRequest)"
+  }
+]

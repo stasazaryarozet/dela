@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-13T11:13:00Z",
+  "session": "active",
+  "integration": {
+    "coverage": 30,
+    "active_providers": ["google_olga", "google_azarya", "telegram_bot"],
+    "partial": ["instagram", "yandex"],
+    "blocked": ["instagram_page_connection", "telegram_channel_creation"]
+  },
+  "substance": {
+    "latest": ".context/substance_latest.json",
+    "gmail_messages": 20,
+    "calendar_events": 23,
+    "drive_files": 20,
+    "contacts": 50
+  },
+  "ready": {
+    "content": "Ольга/posts_month.txt (28 posts)",
+    "sites": ["parisinjanuary.ru (live)", "olgarozet.ru (ready to deploy)"],
+    "webhooks": ["gmail", "calendar", "calcom"]
+  },
+  "communication": {
+    "dela_to_providers": {
+      "google": "100% (webhooks < 1sec)",
+      "telegram": "80% (bot active, need channel)",
+      "instagram": "60% (content gen, manual publish)",
+      "calcom": "100% (bookings integrated)"
+    },
+    "providers_to_dela": {
+      "google": "webhooks active, substance auto-export",
+      "telegram": "bot archives to yandex disk",
+      "instagram": "no api access",
+      "calcom": "webhook configured"
+    },
+    "claude_to_dela": {
+      "method": "file_based (.context/)",
+      "write": ["current_state.json", "actions.sh", "status.txt"],
+      "read": ["substance_latest.json", "from_multitool_intentions.txt"]
+    }
+  }
+}

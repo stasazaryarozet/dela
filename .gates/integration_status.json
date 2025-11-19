@@ -1,0 +1,140 @@
+{
+  "root": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○",
+  "projects": {
+    "tools": {
+      "path": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/tools",
+      "has_config": false,
+      "sub_projects": [
+        {
+          "name": "__pycache__",
+          "path": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/tools/__pycache__",
+          "has_config": false
+        }
+      ]
+    },
+    "olga": {
+      "path": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/olga",
+      "has_config": false,
+      "sub_projects": [
+        {
+          "name": "olgarozet.ru",
+          "path": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/olga/olgarozet.ru",
+          "has_config": false
+        },
+        {
+          "name": "olgaroset.ru",
+          "path": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/olga/olgaroset.ru",
+          "has_config": false
+        },
+        {
+          "name": "consultations",
+          "path": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/olga/consultations",
+          "has_config": false
+        },
+        {
+          "name": "design-travels",
+          "path": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/olga/design-travels",
+          "has_config": false
+        }
+      ]
+    },
+    "telegram-bot": {
+      "path": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/telegram-bot",
+      "has_config": false,
+      "sub_projects": [
+        {
+          "name": "tools",
+          "path": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/telegram-bot/tools",
+          "has_config": false
+        },
+        {
+          "name": "logs",
+          "path": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/telegram-bot/logs",
+          "has_config": false
+        },
+        {
+          "name": "data",
+          "path": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/telegram-bot/data",
+          "has_config": false
+        }
+      ]
+    },
+    "Ольга": {
+      "path": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/Ольга",
+      "has_config": false,
+      "sub_projects": [
+        {
+          "name": "olgaroset.ru",
+          "path": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/Ольга/olgaroset.ru",
+          "has_config": false
+        }
+      ]
+    },
+    "KNOWLEDGE_BASE": {
+      "path": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/KNOWLEDGE_BASE",
+      "has_config": false,
+      "sub_projects": [
+        {
+          "name": "templates",
+          "path": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/KNOWLEDGE_BASE/templates",
+          "has_config": false
+        },
+        {
+          "name": "reports",
+          "path": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/KNOWLEDGE_BASE/reports",
+          "has_config": false
+        }
+      ]
+    },
+    "source_materials": {
+      "path": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/source_materials",
+      "has_config": false,
+      "sub_projects": []
+    },
+    "azarya": {
+      "path": "/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/azarya",
+      "has_config": false,
+      "sub_projects": []
+    }
+  },
+  "providers": {
+    "telegram": {
+      "status": "connected",
+      "accounts": [
+        "olga",
+        "azarya"
+      ]
+    },
+    "google": {
+      "status": "connected",
+      "services": [
+        "gmail",
+        "calendar",
+        "drive",
+        "contacts",
+        "sheets",
+        "forms"
+      ]
+    },
+    "github": {
+      "status": "connected"
+    },
+    "calcom": {
+      "status": "connected"
+    },
+    "instagram": {
+      "status": "partial",
+      "coverage": "60%"
+    },
+    "whatsapp": {
+      "status": "architectural",
+      "users": [
+        "azarya",
+        "olga"
+      ],
+      "gate": "whatsapp_multi_user_gate.py",
+      "webhook": "whatsapp_webhook_handler.py",
+      "note": "Глубокая интеграция с изолированными credentials для каждого пользователя"
+    }
+  }
+}

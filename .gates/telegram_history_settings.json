@@ -1,0 +1,77 @@
+[
+  {
+    "name": "ДЕЛАЕМ",
+    "id": -1002688231781,
+    "status": "error: The chat or channel wasn't modified (title, invites, username, admins, etc. are the same) (caused by TogglePreHistoryHiddenRequest)"
+  },
+  {
+    "name": "ПАРИЖ сентябрь 25",
+    "id": -4906876993,
+    "status": "error: Cannot cast InputPeerChat to any kind of InputChannel."
+  },
+  {
+    "name": "Наша Надя приехала!",
+    "id": -4282857261,
+    "status": "error: Cannot cast InputPeerChat to any kind of InputChannel."
+  },
+  {
+    "name": "N, O, S",
+    "id": -1003208406348,
+    "status": "error: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by TogglePreHistoryHiddenRequest)"
+  },
+  {
+    "name": "ПАРИЖ СЕНТЯБРЬ 24",
+    "id": -4180900155,
+    "status": "error: Cannot cast InputPeerChat to any kind of InputChannel."
+  },
+  {
+    "name": "ПАРИЖ 25",
+    "id": -4751416645,
+    "status": "error: Cannot cast InputPeerChat to any kind of InputChannel."
+  },
+  {
+    "name": "Лето 25 - Современное искусство в дизайне интерьеров (онлайн интенсив)",
+    "id": -1002434489044,
+    "status": "error: The chat or channel wasn't modified (title, invites, username, admins, etc. are the same) (caused by TogglePreHistoryHiddenRequest)"
+  },
+  {
+    "name": "Лето 25 - Колористика в дизайне интерьеров (онлайн интенсив)",
+    "id": -1002616923445,
+    "status": "error: The chat or channel wasn't modified (title, invites, username, admins, etc. are the same) (caused by TogglePreHistoryHiddenRequest)"
+  },
+  {
+    "name": "Зима 25 - Колористика в дизайне интерьеров (онлайн интенсив)",
+    "id": -1002399539099,
+    "status": "error: The chat or channel wasn't modified (title, invites, username, admins, etc. are the same) (caused by TogglePreHistoryHiddenRequest)"
+  },
+  {
+    "name": "Декорирование интерьера 2023 БВШД",
+    "id": -904971749,
+    "status": "error: Cannot cast InputPeerChat to any kind of InputChannel."
+  },
+  {
+    "name": "Архитектура и дизайн XX-XXI века",
+    "id": -1002293661920,
+    "status": "error: The chat or channel wasn't modified (title, invites, username, admins, etc. are the same) (caused by TogglePreHistoryHiddenRequest)"
+  },
+  {
+    "name": "Проект ресторана (Ульяновск)",
+    "id": -4147855342,
+    "status": "error: Cannot cast InputPeerChat to any kind of InputChannel."
+  },
+  {
+    "name": "Create with passion",
+    "id": -1001865330443,
+    "status": "error: Invalid object ID for a chat. Make sure to pass the right types, for instance making sure that the request is designed for chats (not channels/megagroups) or otherwise look for a different one more suited\\nAn example working with a megagroup and AddChatUserRequest, it will fail because megagroups are channels. Use InviteToChannelRequest instead (caused by TogglePreHistoryHiddenRequest)"
+  },
+  {
+    "name": "RadioROZETka",
+    "id": -1001640281930,
+    "status": "error: Invalid object ID for a chat. Make sure to pass the right types, for instance making sure that the request is designed for chats (not channels/megagroups) or otherwise look for a different one more suited\\nAn example working with a megagroup and AddChatUserRequest, it will fail because megagroups are channels. Use InviteToChannelRequest instead (caused by TogglePreHistoryHiddenRequest)"
+  },
+  {
+    "name": "Портреты семьи",
+    "id": -506448931,
+    "status": "error: Cannot cast InputPeerChat to any kind of InputChannel."
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "from": "claude_sonnet",
+  "timestamp": "2025-11-11T21:06:00Z",
+  "type": "state_sync",
+  "data": {
+    "active_providers": ["google", "telegram"],
+    "coverage": 27.3,
+    "ready_to_publish": {
+      "platform": "instagram",
+      "content_file": "Ольга/posts_month.txt",
+      "first_post_line": 1,
+      "action": "copy_paste_publish"
+    },
+    "blocked": {
+      "instagram_connection": {
+        "reason": "needs_user_action",
+        "location": "instagram_app",
+        "path": "Settings → Professional → Connected tools → Connect Page",
+        "time_required": "2min"
+      }
+    },
+    "next_webhook_reaction": {
+      "gmail": "< 1sec",
+      "calendar": "< 1sec",
+      "calcom": "< 1sec"
+    },
+    "executable_actions": [
+      {
+        "id": "publish_telegram",
+        "command": "python3 .gates/telegram_remote_gate.py --send 'First post text'",
+        "requires": "TELEGRAM_CHANNEL_ID"
+      },
+      {
+        "id": "export_substance",
+        "command": "python3 .gates/google/export_substance.py",
+        "requires": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Включить в дело — Ольга Розет</title>
+<style>
+:root{--text:#1a1a1a;--bg:#fff;--link:#000;--border:#e0e0e0;--accent:#E31B1B}
+*{margin:0;padding:0;box-sizing:border-box}
+html{font:400 18px/1.7 -apple-system,BlinkMacSystemFont,system-ui,sans-serif;-webkit-text-size-adjust:100%;-webkit-font-smoothing:antialiased}
+body{color:var(--text);background:var(--bg);max-width:38em;margin:0 auto;padding:4em 1.5em 2em;min-height:100vh}
+h1{font-size:1.8em;font-weight:400;margin-bottom:1em;text-align:center}
+.slot{background:#fafafa;padding:1.5em;margin:1em 0;border-left:3px solid var(--accent);cursor:pointer;transition:background .2s}
+.slot:hover{background:#f5f5f5}
+.slot-time{font-weight:500;font-size:1.1em;margin-bottom:0.5em}
+.slot-duration{color:#666;font-size:0.9em}
+form{display:none;background:#fafafa;padding:2em;margin:2em 0}
+form.active{display:block}
+input,textarea{width:100%;padding:0.875rem;border:1px solid var(--border);border-radius:4px;font-size:1rem;margin-bottom:1rem;font-family:inherit}
+button{width:100%;padding:1rem;background:var(--accent);color:white;border:none;border-radius:4px;font-size:1rem;font-weight:500;cursor:pointer}
+button:hover{background:#c41717}
+button:disabled{background:#999;cursor:not-allowed}
+.note{text-align:center;color:#666;font-size:0.9em;margin:2em 0;line-height:1.6}
+.success{background:#e8f5e9;border-color:#4caf50;padding:2em;text-align:center;display:none}
+.success.active{display:block}
+</style>
+</head>
+<body>
+
+<h1>Включить в дело<br><span style="font-size:0.6em;color:#666">с Ольгой Розет</span></h1>
+
+<p class="note">
+Cal.com временно недоступен.<br>
+Выберите удобное время из доступных слотов:
+</p>
+
+<div id="slots"></div>
+
+<form id="booking-form">
+  <h2 style="margin-bottom:1em;font-size:1.2em">Бронирование</h2>
+  
+  <input type="hidden" id="event-id" name="event_id">
+  <input type="hidden" id="slot-time" name="slot_time">
+  
+  <input type="text" id="name" name="name" placeholder="Имя" required>
+  <input type="email" id="email" name="email" placeholder="Email" required>
+  <input type="tel" id="phone" name="phone" placeholder="Телефон (необязательно)">
+  
+  <textarea id="message" name="message" rows="3" placeholder="Что вы хотите включить в дело? (необязательно)"></textarea>
+  
+  <button type="submit">Забронировать</button>
+  <button type="button" onclick="cancelBooking()" style="background:#999;margin-top:0.5em">Отмена</button>
+</form>
+
+<div id="success" class="success">
+  <h2 style="color:#4caf50;margin-bottom:1em">✅ Готово!</h2>
+  <p>Бронирование подтверждено.</p>
+  <p style="margin-top:1em;color:#666">Письмо отправлено на ваш email.</p>
+  <button onclick="location.reload()" style="margin-top:1.5em;background:#4caf50">Закрыть</button>
+</div>
+
+<p class="note">
+Нет денег? Возможно, что-нибудь придумаем. Пожалуйста, пишите.<br>
+<a href="https://t.me/olgarozet">@olgarozet</a> или <a href="mailto:o.g.rozet@gmail.com">o.g.rozet@gmail.com</a>
+</p>
+
+<script>
+// Загрузка доступных слотов
+async function loadSlots() {
+  try {
+    const response = await fetch('/api/slots');
+    const slots = await response.json();
+    
+    const container = document.getElementById('slots');
+    container.innerHTML = '';
+    
+    if (slots.length === 0) {
+      container.innerHTML = '<p class="note">Нет доступных слотов. Напишите напрямую: <a href="https://t.me/olgarozet">@olgarozet</a></p>';
+      return;
+    }
+    
+    slots.forEach(slot => {
+      const div = document.createElement('div');
+      div.className = 'slot';
+      div.onclick = () => selectSlot(slot);
+      
+      const date = new Date(slot.start);
+      const timeStr = date.toLocaleString('ru-RU', {
+        day: 'numeric',
+        month: 'long',
+        hour: '2-digit',
+        minute: '2-digit'
+      });
+      
+      div.innerHTML = `
+        <div class="slot-time">${timeStr}</div>
+        <div class="slot-duration">40 минут</div>
+      `;
+      
+      container.appendChild(div);
+    });
+  } catch (error) {
+    console.error('Ошибка загрузки слотов:', error);
+    document.getElementById('slots').innerHTML = '<p class="note">Ошибка загрузки. Обновите страницу.</p>';
+  }
+}
+
+function selectSlot(slot) {
+  document.getElementById('event-id').value = slot.event_id;
+  document.getElementById('slot-time').value = slot.start;
+  document.getElementById('booking-form').classList.add('active');
+  document.getElementById('slots').style.opacity = '0.3';
+}
+
+function cancelBooking() {
+  document.getElementById('booking-form').classList.remove('active');
+  document.getElementById('booking-form').reset();
+  document.getElementById('slots').style.opacity = '1';
+}
+
+// Отправка формы
+document.getElementById('booking-form').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  
+  const formData = new FormData(e.target);
+  const data = Object.fromEntries(formData);
+  
+  try {
+    const response = await fetch('/api/book', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify(data)
+    });
+    
+    if (response.ok) {
+      document.getElementById('booking-form').style.display = 'none';
+      document.getElementById('success').classList.add('active');
+      document.getElementById('slots').style.display = 'none';
+    } else {
+      alert('Ошибка бронирования. Напишите напрямую: @olgarozet');
+    }
+  } catch (error) {
+    console.error('Ошибка:', error);
+    alert('Ошибка бронирования. Напишите напрямую: @olgarozet');
+  }
+});
+
+// Загрузка при открытии страницы
+loadSlots();
+</script>
+
+<noscript>
+  <div style="background:#fff3cd;padding:2em;text-align:center;margin:2em 0">
+    <p style="color:#856404;margin-bottom:1em">Для бронирования включите JavaScript или напишите напрямую:</p>
+    <p><a href="https://t.me/olgarozet" style="color:#856404;font-weight:600">@olgarozet</a> или <a href="mailto:o.g.rozet@gmail.com" style="color:#856404;font-weight:600">o.g.rozet@gmail.com</a></p>
+  </div>
+</noscript>
+
+</body>
+</html>
+

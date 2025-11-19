@@ -1,0 +1,6 @@
+#!/bin/bash
+# Проверка Instagram подключения к Home-resurs
+
+PAGE_ACCESS_TOKEN="EAAMDsb3yLBUBPxlR90kRjZAQdxoq6RCcnh1AkajrXRKDYtisLAM5XZBPiGYCVInBTHypianoQoep7CJnIPPrjAnAWM1oVgoMcTvfOoCCKeelxaypnYwx6tVe1hxxMko6ig3BKz2VagAtv6AchPT7jq7KucTZCw7PRHwZBJLPwyEZBxBQeJwogwikFsBeuJnbJ9uonZBgtisKDUJLvEPLmzW32TlglxLm7qKTTchPCl2KYZD"
+
+curl -s "https://graph.facebook.com/v18.0/462306250550135?fields=instagram_business_account,name&access_token=$PAGE_ACCESS_TOKEN" | python3 -m json.tool

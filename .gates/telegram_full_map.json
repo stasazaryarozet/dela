@@ -1,0 +1,7012 @@
+{
+  "total_entities": 1157,
+  "paris_groups": [
+    {
+      "id": 4906876993,
+      "name": "ПАРИЖ сентябрь 25",
+      "type": "Chat",
+      "archived": false,
+      "participants": 9
+    },
+    {
+      "id": 4180900155,
+      "name": "ПАРИЖ СЕНТЯБРЬ 24",
+      "type": "Chat",
+      "archived": false,
+      "participants": 13
+    },
+    {
+      "id": 4751416645,
+      "name": "ПАРИЖ 25",
+      "type": "Chat",
+      "archived": false,
+      "participants": 10
+    },
+    {
+      "id": 1588063262,
+      "name": "Ольга Шлопак Заявка В Париж",
+      "type": "User",
+      "archived": false,
+      "participants": null
+    },
+    {
+      "id": 136967406,
+      "name": "Варвара Якубсон Заявка В париж",
+      "type": "User",
+      "archived": false,
+      "participants": null
+    },
+    {
+      "id": 346646226,
+      "name": "Эльвира Заявка в Париж",
+      "type": "User",
+      "archived": false,
+      "participants": null
+    },
+    {
+      "id": 1578619537,
+      "name": "Лилия 2 Заявка В Париж",
+      "type": "User",
+      "archived": false,
+      "participants": null
+    },
+    {
+      "id": 429178529,
+      "name": "Анна Раимкулова (Заявка В Париж",
+      "type": "User",
+      "archived": false,
+      "participants": null
+    },
+    {
+      "id": 486748810,
+      "name": "Дарья (Заявка в Париж)",
+      "type": "User",
+      "archived": false,
+      "participants": null
+    }
+  ],
+  "all_entities": [
+    {
+      "id": 2688231781,
+      "name": "ДЕЛАЕМ",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1398355728,
+      "name": "Идеи дизайна интерьера",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1537503889,
+      "name": "🇷🇸💬 Новости Сербии: чат",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1464410906,
+      "name": "Чат Дизайнеров и Архитекторов",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1532879806,
+      "name": "KnabiGo Жизнь (чат)",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1847760284,
+      "name": "Дизайн и Архитектура Сербия",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1580198271,
+      "name": "The Blueprint News",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1480306544,
+      "name": "Mapa Mag на русском – Все о жизни в Белграде",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2303996873,
+      "name": "ИСТОРИЯ | ФАКТЫ | СЕКРЕТНО",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1872344162,
+      "name": "Adaptacija Belgrade",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1747621525,
+      "name": "🇷🇸 Строительство и ремонт в Сербии",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1166672838,
+      "name": "Москва сейчас",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1742359965,
+      "name": "Mramor.ru | БИРЮЗА",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2104461781,
+      "name": "Сербия Услуги | Ремонт, Парикмахерская, Репетитор, Мастер на час, Сервис, Ремонтные работы, Обучение, Помощь | Белград, Нови Сад",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1216297455,
+      "name": "Сербия — LIVE 🇷🇸 |⚡️Новости",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2401660247,
+      "name": "Московская барыня",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1235048743,
+      "name": "Design Mate",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1108183215,
+      "name": "Shakko: об искусстве",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1794988016,
+      "name": "GPT | ChatGPT | Midjourney — GPTMain News",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1754113672,
+      "name": "Ромашковый сбор",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 648689446,
+      "name": "Надя Смирнова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1945706956,
+      "name": "Сербия 🇷🇸 Специалисты",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1452805646,
+      "name": "Сербия - Новости",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1952461469,
+      "name": "Потанцули | Фитнес",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2170119013,
+      "name": "Русская словесность",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1156676651,
+      "name": "ГЭС-2",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1431280044,
+      "name": "Новости Сербии",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1729282349,
+      "name": "BasicDecor: дизайн интерьера, искусство, маркетинг",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1254661214,
+      "name": "Осторожно, новости",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1506832400,
+      "name": "ку-ку",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1768510342,
+      "name": "Москва, плитка, два орла",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1600337678,
+      "name": "Тут картины показываем",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1909400040,
+      "name": "Жизнь и Работа Сербия🇷🇸",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1642801043,
+      "name": "Filimonova Textile",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1703800009,
+      "name": "твой самый легальный дилер",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1689087774,
+      "name": "Сербские мемы",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1765085644,
+      "name": "Молния | Москва",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1320515032,
+      "name": "The Art Newspaper Russia",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1799798285,
+      "name": "Первый Московский",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1119107463,
+      "name": "Aboutculture | Искусство",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1883765170,
+      "name": "Москва не спит • Афиша, новости",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2199912510,
+      "name": "Мужской стиль",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1827519288,
+      "name": "Русский мат",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2090077262,
+      "name": "ТАРЕЛОЧКА",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1888168255,
+      "name": "Ноги Ван Гога",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2494632493,
+      "name": "Коньково 24/7 • ЮЗАО",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1521537814,
+      "name": "Лайфхаки Подсознания",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1106603791,
+      "name": "Живой сербский",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1770755188,
+      "name": "Каталог Алвара Аалто",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1614055322,
+      "name": "Art Russia / Арт Россия",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1231519967,
+      "name": "НЕВЗОРОВ",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1760240853,
+      "name": "Сделано в Москве",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1194793617,
+      "name": "Сулим про Английский",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1288481277,
+      "name": "Москвач • Новости Москвы",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1857726292,
+      "name": "По Фрейду | Психоанализ",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1541876984,
+      "name": "Русская мода",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1911189726,
+      "name": "Юрий будет Дудь",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1153693191,
+      "name": "Olga_kosyreva_books",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1190369576,
+      "name": "Sweet Home | Дизайн интерьера | 2025",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2075210021,
+      "name": "Сербия День за Днём",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1026939288,
+      "name": "Журнал НОЖ",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1298841624,
+      "name": "INTERIOR+DESIGN",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1414379796,
+      "name": "ЖИВЫЕ ВЕЩИ",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1710212004,
+      "name": "MedlevArchitect&Design",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1310345964,
+      "name": "АРТГИД",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 397828329,
+      "name": "Любовь Луганская",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2833877838,
+      "name": "Books&Looks",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2171420371,
+      "name": "archeology ✷ art",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1140809683,
+      "name": "The Bell",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1948126196,
+      "name": "Пенсионеры России",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1744745570,
+      "name": "MANTRA MEDIA",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1781552321,
+      "name": "Дизайн интерьера | Чат",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2462368588,
+      "name": "Сербия Посылки 🇷🇸|🇷🇺 Документы | Доставка",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 777000,
+      "name": "Telegram",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1960443071,
+      "name": "Фотоархив",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2007857705,
+      "name": "Легендарная Москва",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2032378489,
+      "name": "Художник в Эмиграции",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1508270003,
+      "name": "ChatGPT | Нейросети",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1228859759,
+      "name": "Журнал \"Luxury Home\"",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1624794330,
+      "name": "Михаил Курносов",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2517269003,
+      "name": "Биохакеры",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1378170431,
+      "name": "Фитнес дома",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1530279711,
+      "name": "Что там в Белграде?",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1712465850,
+      "name": "Цветы и растения",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1486012486,
+      "name": "Викторины на Английском",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2025873738,
+      "name": "Сербия попутчики - посылки",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1441672911,
+      "name": "\"Made in Italy\"",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2058310048,
+      "name": "Музеи мира",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1217374897,
+      "name": "Картины говорят",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1991184582,
+      "name": "Мебельное дело | интерьер, DIY",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 3127349073,
+      "name": "Декор (вечер) 25-26",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2173634794,
+      "name": "ЮЗАО 24/7 • Москва",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1242545525,
+      "name": "я поведу тебя в музей",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1564412984,
+      "name": "First in Space",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1939955863,
+      "name": "Я художник, я так вижу",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1069499482,
+      "name": "Парнасский пересмешник",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1700440019,
+      "name": "A.MUR DESIGN",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 3019109538,
+      "name": "Декор (день) 25-26",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1308703947,
+      "name": "Школа английского языка Елены Гапоновой",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1653451796,
+      "name": "Sketching in Belgrade",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1903261337,
+      "name": "🇷🇸 Волна / Сербия",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1664358721,
+      "name": "Memes for friends",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1909753585,
+      "name": "Гражданство Сербии, законы об иностранцах – что нового?",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1502356587,
+      "name": "Безопасная пластика с Ларисой Фоломеевой",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2300040882,
+      "name": "ДИБК 24-26",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1158382537,
+      "name": "Гастроэнтеролог Ольга Помойнецкая",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1413414476,
+      "name": "Blanar.art",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 4906876993,
+      "name": "ПАРИЖ сентябрь 25",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 4669909622,
+      "name": "Србски ебанариум 👾",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 43451832,
+      "name": "Макс Мой",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1661435685,
+      "name": "DR Жолтиков. Эстетическая хирургия",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1806036075,
+      "name": "KnabiGo",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1146463179,
+      "name": "Безумные будни искусствоведа",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 4856917196,
+      "name": "РОЗА",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 1152255944,
+      "name": "Юлия из Палат",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1879921434,
+      "name": "Лучшая версия себя",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1184204592,
+      "name": "Музейный патруль",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1750279827,
+      "name": "Tanya+Serdar",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1579230036,
+      "name": "🌏 Проще говоря.Сербия",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 5423119512,
+      "name": "Школа Черчилль",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1680425981,
+      "name": "Guschin",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1136716142,
+      "name": "Rendez-Vous (Рандеву)",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1395708291,
+      "name": "FASHION PAPER",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1627114111,
+      "name": "Искусство Делает Меня",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1759997281,
+      "name": "ALMA",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1684098618,
+      "name": "STROGANOV FAMILY | Доставка еды | Белград, Нови-Сад, Сербия",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2482246948,
+      "name": "ку-ку киндер",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1257752398,
+      "name": "Tри сестры",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1662310888,
+      "name": "ARCHISTUDIO",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1614361223,
+      "name": "Лексикона | Образование",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1118023420,
+      "name": "Мама в Телеграме",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1193869894,
+      "name": "бутик МАГИЯ МОДЫ",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1622478243,
+      "name": "СправПортал - Защита от спама и мошенников",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1222372888,
+      "name": "ПРЕДМЕТЫ",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1279687004,
+      "name": "ВАША ТОКСИЧНАЯ ПОДРУГА",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1609446861,
+      "name": "Артём Дежурко: истории о дизайне",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1544510666,
+      "name": "Музей декоративного искусства🪆",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1840894807,
+      "name": "Картины с историей | Искусство",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1124627275,
+      "name": "Журнал IN/EX",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2042134689,
+      "name": "Новое воспитание | метод Шаталова",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1711162550,
+      "name": "Музей театра и музыки",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1365314498,
+      "name": "Эрмитаж",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2096116928,
+      "name": "Винтажные светильники 🐭 J.u.n.k_mouse🐭",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1294005498,
+      "name": "Дизайн-лекторий Ольги Косыревой",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2113908692,
+      "name": "Sveta Lipkina. Дизайн и ремесло",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1961759396,
+      "name": "🌄 ФотоСербия | Чат любителей красивых фото в скрытых, неочевидных местах Сербии",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1419251015,
+      "name": "Design In Details",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1430910344,
+      "name": "Mid-Century, More Than",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2081713244,
+      "name": "Кидалы | Черный список Сербия Чат",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 556812362,
+      "name": "Елена Рудковская",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1621823742,
+      "name": "LaRobeMoscow",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1598267069,
+      "name": "Лекторий Андрея Бархина",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1206290969,
+      "name": "Армен и Фёдор",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 8247301095,
+      "name": "Nina UU",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1746998365,
+      "name": "divan.ru",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1972749998,
+      "name": "По следам истории в Сербии",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1113720649,
+      "name": "Снаружи Шопен играет",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1269703609,
+      "name": "Зинаида Пронченко",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1639596666,
+      "name": "IMIGRATA: все про внж и визы стран 🇪🇺Европы",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1813367091,
+      "name": "Хуеморхе вам!",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1061362280,
+      "name": "Артхив - Продажа картин - Маркетплейс искусства",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 6664077504,
+      "name": "Сын",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1105356373,
+      "name": "Хлебозавод",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1082742763,
+      "name": "домики",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1796657932,
+      "name": "DEREVO PARK Ландшафт",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1925048719,
+      "name": "Пластический хирург | Ксения Авдошенко",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1637884936,
+      "name": "Багет и Борщ 🇫🇷",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1203152044,
+      "name": "Better Ask Janet",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2085796373,
+      "name": "Сербия Шопинг | стиль и гардероб",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 6586948031,
+      "name": "Журнал Time’s - Важное",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1685875086,
+      "name": "Slow Travel | путешествия по Балканам",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1675763744,
+      "name": "Ольга",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2049004978,
+      "name": "⚡️MINDAROS⚡️ТРАНСФЕР⚡️ВИЗАРАН⚡️ЭКСКУРСИИ⚡️СЕРБИЯ⚡️",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2071608441,
+      "name": "Школа дизайна для детей и взрослых в Сербии | CheDesign School",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 5943722381,
+      "name": "Midjourney | Нейросети",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1486001637,
+      "name": "Доктор Наталья Терещенко",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 6163767459,
+      "name": "ChatGPT | Апдейт",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1781465418,
+      "name": "Жемчужины Сербии / экскурсии и туры по Сербии",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1387544723,
+      "name": "Баугауз",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1749544291,
+      "name": "Культурный дилер",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2107280519,
+      "name": "Мозг на полную",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2694486494,
+      "name": "Doctorus | Медицинский центр в Белграде",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 306179172,
+      "name": "Сергей Сухотский",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1747537897,
+      "name": "По Белграду",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 407287840,
+      "name": "Вера Савельева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1835181297,
+      "name": "Es Эсти",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1097584833,
+      "name": "Гапонова и её английский",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 5800905741,
+      "name": "Дизайн и ремонт квартир в Москве и МО — Larsson.pro",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1437588262,
+      "name": "i-design.pro",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1536213498,
+      "name": "МОДА, СТИЛЬ, БРЕНД с Еленой Елисеевой.",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1913861428,
+      "name": "БВШД: ДИБК 23-25",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 578600385,
+      "name": "Victoria Komarova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 349152205,
+      "name": "Elena Shiz",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 805784123,
+      "name": "Маша староста 2 го Дибк 25",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1042143143,
+      "name": "Fragments",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1789946702,
+      "name": "Однажды в Сербии",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 365387884,
+      "name": "Марина Юшкевич",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1887648426,
+      "name": "Сербия — LIVE ЧАТ 🇷🇸 / Жизнь, работа, еда, отдых, релокация в Сербию. IT",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2442429603,
+      "name": "Хохломмаж",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1646457032,
+      "name": "OCKHOME | мебель",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2456079374,
+      "name": "Lira SHAMSUTDINOV design",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2454835952,
+      "name": "Goldy Duck",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1336015420,
+      "name": "Anna",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1602729482,
+      "name": "Kristina_bobuki",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1735914153,
+      "name": "Почти француженка",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 789549774,
+      "name": "Ksenia Semiglazova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4526403590,
+      "name": "С Розет хоть куда <3",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 4282857261,
+      "name": "Наша Надя приехала!",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 1054347207,
+      "name": "Психология",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 690899182,
+      "name": "Anna Romanova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1475654531,
+      "name": "Отказала модная железа",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2086883396,
+      "name": "Уютная Парадная",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1284130296,
+      "name": "BalkanOutdoor",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1620336232,
+      "name": "Сербский язык за 5 минут в день | Черногорский / Боснийский / Хорватский язык | Српски jезик | Srpski jezik | Сербия | Черногори",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1247032794,
+      "name": "Anna Координатор Декор",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1186370294,
+      "name": "Love them all",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1697500749,
+      "name": "Анастасия Потапова - хоумстейджинг и дизайн",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1364113654,
+      "name": "Чао, Белград!",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1465121480,
+      "name": "Клизма романтизма",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 6183389820,
+      "name": "invisible.ru care",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 232995982,
+      "name": "Анастасия Потапова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1878283688,
+      "name": "Экскурсии по Сербии",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2088961235,
+      "name": "melamed melamed",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 297438753,
+      "name": "Елена Щеглова Узбекистан",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2010877604,
+      "name": "Сербия Art | Творчество | Рисование, Театр, Кино, Керамика, Музей, Рукоделие, Живопись, Скульптура, Мода, Дизайн, Вышивка, Хобби",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1659484262,
+      "name": "Учим сербский вместе с @totoro_teacher | Сербский язык | Черногорский язык",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1313188207,
+      "name": "Резонёръ-футуристъ",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 542000020,
+      "name": "Мыха",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2459194402,
+      "name": "Броновицкая в Берлине",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 8084988092,
+      "name": "Моше Розет",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 186909958,
+      "name": "Nailya Izmailova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1042652201,
+      "name": "Losko.ru — искусство, архитектура и фотография",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 3208406348,
+      "name": "N, O, S",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 5021145478,
+      "name": "Британка х DOGMA (EVO)",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 1468854904,
+      "name": "Nasullobek Radjabov",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 183479641,
+      "name": "+33644101216 Наташа Логинова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1624201176,
+      "name": "Цвет и слово",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1286256313,
+      "name": "NOVA",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1648338969,
+      "name": "Придумано и сделано в России",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 101782308,
+      "name": "Sophie Ts",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4180900155,
+      "name": "ПАРИЖ СЕНТЯБРЬ 24",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 4751416645,
+      "name": "ПАРИЖ 25",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 1860368174,
+      "name": "Космический суп",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 847112888,
+      "name": "ica rus",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 1725324075,
+      "name": "Стилист интерьерных съемок Юлия Чеботарь",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 908416479,
+      "name": "Женя Лондон 1",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5585169961,
+      "name": "Людмила Владимировна 1",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1620369116,
+      "name": "Zoya Tomilina Creative Lab",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2529354359,
+      "name": "AS-DESIGN студия дизайна интерьеров",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 342052733,
+      "name": "Sergey",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6062513297,
+      "name": "idea connect",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 28509860,
+      "name": "Арина Калганова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2694385647,
+      "name": "НАСЛЕДИЕ 360",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2060216712,
+      "name": "Marina K",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 179160286,
+      "name": "UF",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6348548562,
+      "name": "Саша Соколов",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 835449143,
+      "name": "Nataliya Smirnova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4825580573,
+      "name": "N, O, S",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 1921414161,
+      "name": "Яблоко Магритта",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1803839205,
+      "name": "Как это будет по-сербски?",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 983957248,
+      "name": "Ekaterina Kiryushkina",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 60714073,
+      "name": "Марина Текстиль",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1606260712,
+      "name": "Elena tver",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1285871910,
+      "name": "Регина Лукманова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2924248823,
+      "name": "Deeeeep Down South",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1274911334,
+      "name": "Lander Learns",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1118632376,
+      "name": "Nataliya Gevorkyan",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2151635660,
+      "name": "Красиво жить не запретишь",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 351241218,
+      "name": "Alena Vitckaia",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2174685645,
+      "name": "Текстильный декоратор Марианна Могилевская",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 183838528,
+      "name": "Екатерина Геннадьевна Щербакова Врач",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2194516695,
+      "name": "Учи Инглиш",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 4724337407,
+      "name": "Культурные экзекуции",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 1176019610,
+      "name": "История дизайна",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1804990462,
+      "name": "Болталка ️ Британка",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2379631883,
+      "name": "Дек. интерьера 24-25 (вечерняя)",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2374859921,
+      "name": "Официальная декор.",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1021843798,
+      "name": "Аня💞Детали",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 680994281,
+      "name": "Ольга ( Подруга Нат. Порошиной) Антиквар",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7965033378,
+      "name": "idea support",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 787591512,
+      "name": "ira l’eau",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 361518198,
+      "name": "Polina Chernysh",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2434489044,
+      "name": "Лето 25 - Современное искусство в дизайне интерьеров (онлайн интенсив)",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1468944297,
+      "name": "Надо ехать смотреть!",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 883663574,
+      "name": "Алекс. Английский с нуля",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 264496383,
+      "name": "Наталья Бажора",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2326053533,
+      "name": "Out of Africa Chat",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2411295108,
+      "name": "Out of Africa",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1998645472,
+      "name": "Дарья",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 872766845,
+      "name": "S",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 8213255332,
+      "name": "Сара Розет",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 66592141,
+      "name": "Kate Kuzmina",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 421581661,
+      "name": "Даша Гаглоева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 551937285,
+      "name": "Елена Бабкина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7735785365,
+      "name": "Навигатор Москвы",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1337053776,
+      "name": "The Saloon",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1310189253,
+      "name": "Колобова Нат",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2338916547,
+      "name": "Dore | Доход без забот",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1743689730,
+      "name": "Kristina_Krasnyanskaya",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 233881979,
+      "name": "Милена",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5734705320,
+      "name": "Ольга Соколова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1860137679,
+      "name": "Елена",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 425820286,
+      "name": "Ksenia Eliseeva",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6428065922,
+      "name": "Meetropol",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 8420230924,
+      "name": "Мила Троицкая",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 435259226,
+      "name": "Гоша",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1588063262,
+      "name": "Ольга Шлопак Заявка В Париж",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5863974446,
+      "name": "ChatGPT | Нейросети",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 261696298,
+      "name": "Татьяна Фадеева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2320005909,
+      "name": "🎀Сара🎀",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 5396838969,
+      "name": "Олег Экскурсии и Трансферы",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 787863660,
+      "name": "Вася Наш",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 475418168,
+      "name": "Юля Чуланова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2465753538,
+      "name": "Travel Journal",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2184981240,
+      "name": "Спонтанный сербский ☕",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 98008132,
+      "name": "Nina Zimina",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4792750693,
+      "name": "Место Встречи х Британка",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 942159339,
+      "name": "Анна Никулина ( Чебоксары)",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1645741418,
+      "name": "Karina Avagyan",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1436310878,
+      "name": "Екатерина Чебурашкины",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 424971356,
+      "name": "Влад",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1749222065,
+      "name": "Наталья Истомина чат",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1441472258,
+      "name": "Наталья Истомина",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1745345986,
+      "name": "Maria Solomina",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 136967406,
+      "name": "Варвара Якубсон Заявка В париж",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2155124050,
+      "name": "Healthy (ex-)Smoker",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 346646226,
+      "name": "Эльвира Заявка в Париж",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 466884709,
+      "name": "Ольга Дроздова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1578619537,
+      "name": "Лилия 2 Заявка В Париж",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 443891752,
+      "name": "Калбиева Ольга",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5720028884,
+      "name": "ChatGPT 5 & [🅼🅹] | DeepSeek | GPT5 ✹",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 541456778,
+      "name": "Марина хаустова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7736811231,
+      "name": "Ксюша Новикова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 8066188887,
+      "name": ".",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 8404997623,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1483358338,
+      "name": "Olga",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 276423849,
+      "name": "Anastasia",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1125367628,
+      "name": "Elena Leonova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 372539421,
+      "name": "Alexandra Kochetova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 429178529,
+      "name": "Анна Раимкулова (Заявка В Париж",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6227395194,
+      "name": "DS Bot",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2616923445,
+      "name": "Лето 25 - Колористика в дизайне интерьеров (онлайн интенсив)",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2143920066,
+      "name": "«Неизвестный Щукин». Кураторский блог Алексея Петухова",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 831672257,
+      "name": "Кристина Участник Колористики",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 190637700,
+      "name": "Evgenia",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4954506813,
+      "name": "Лето 25 - Современное искусство в дизайне интерьеров (онлайн интенсив)",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 7960212325,
+      "name": "Женя Лондон",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 579176038,
+      "name": "Екатерина Потапова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7920516114,
+      "name": "Алина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 215422765,
+      "name": "Polina Trifonova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2290386283,
+      "name": "Зоя Томилина",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 4863990986,
+      "name": "Лето 25 - Колористика в дизайне интерьеров (онлайн интенсив)",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 7224202147,
+      "name": "Черкес-Заде Екатерина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 386662032,
+      "name": "Лена Будва",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4578605473,
+      "name": "Интенсивы направления декора",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 6255002222,
+      "name": "Ваш характер в одежде",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 486748810,
+      "name": "Дарья (Заявка в Париж)",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1856386779,
+      "name": "Галина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 858460522,
+      "name": "Света Полетаева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5797884581,
+      "name": "Ilia Titov interior design",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 862418816,
+      "name": "Теске",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 120440051,
+      "name": "Алина место встречи",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 888258186,
+      "name": "Darya Mikhaylova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 617790934,
+      "name": "Z Загидат",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1856771394,
+      "name": "Olga",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7699465382,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 365166884,
+      "name": "Майя Видеограф",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 249887044,
+      "name": "Olga Pavlovskaya",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 441709538,
+      "name": "Дмитрий Проценко",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7089959719,
+      "name": "Кто звонит - сервис SpravPortal WhoCalls",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1761606923,
+      "name": "Анна Зайцева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5232784446,
+      "name": "Международная школа арт-терапии",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7499312088,
+      "name": "Оксана Чунихина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4976989126,
+      "name": "Marina, Оксана и Olga",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 6080561376,
+      "name": "ТочкаGPT",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 495482824,
+      "name": "Dmitriy Belkin",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 86461067,
+      "name": "Sergio",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 549902938,
+      "name": "Aliya Ibrayeva",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 349016716,
+      "name": "Голованец Людмила",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1728188090,
+      "name": "marianna_mogilevskaya🔹",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 822013477,
+      "name": "Marina Evseeva M.Style",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 443400269,
+      "name": "Polina Muraveva",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 261090666,
+      "name": "Jennie",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 424634651,
+      "name": "Дарина Абдуллина Координатор Британка",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1278491170,
+      "name": "Katya",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 430132359,
+      "name": "Светлана Сёмак",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2399539099,
+      "name": "Зима 25 - Колористика в дизайне интерьеров (онлайн интенсив)",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 664293345,
+      "name": "Ilan The Dynamite",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2116572928,
+      "name": "Eвгения Aрбузoвa",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 8033421859,
+      "name": "Инга Исаева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 8123784463,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1271266957,
+      "name": "Replies",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4858720878,
+      "name": "ДЕЛАЕМ",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 540663765,
+      "name": "Милена",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1696163476,
+      "name": "Читаю Англию как книгу 📖",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1522154895,
+      "name": "Мария Розет - женский доктор",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2491150907,
+      "name": "CheckPoint | Персонализированные чекапы | Personal Checkup | Preventivni pregledi",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 429962988,
+      "name": "Ксения Новикова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 915399980,
+      "name": "Julia",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 896078180,
+      "name": "Karo Alabian",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 701950219,
+      "name": "Daria",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7746762675,
+      "name": "Твое здоровье",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1634270779,
+      "name": "urbanfoodlife",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 7885666981,
+      "name": "Катя Доган",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 875357518,
+      "name": "Светлана Кадо Ткани",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 807793546,
+      "name": "Timur Cheplakov",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5655943047,
+      "name": "Evgenii Sharonov",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6201403467,
+      "name": "Adaptacija Admin",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1498086656,
+      "name": "Ксюша Лондон 1",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 958649928,
+      "name": "Лена Акимова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 402874019,
+      "name": "Xenia_",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1589597302,
+      "name": "Universal University",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1086916838,
+      "name": "Алёна Дягилева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 274724949,
+      "name": "Маша Эрман",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7942236207,
+      "name": "Виктория борисовна вольпина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 848272836,
+      "name": "Мила Ивенсен Продюсер бвшд",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 810771608,
+      "name": "Jenya Lunina редактор Британка",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7101304240,
+      "name": "Зина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1750700047,
+      "name": "ANTISOCIAL ARTS CLUB",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 469808883,
+      "name": "Саша Эрман",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7846451936,
+      "name": "Джордже Москва",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1462449934,
+      "name": "Tatiana Orlova",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1470402449,
+      "name": "Margarita Savelyeva",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 632344311,
+      "name": "Gala Esakova. Interior designer",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 192307323,
+      "name": "Vika Suv",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 852832811,
+      "name": "Ирина Миронова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 786070059,
+      "name": "doeloon",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5122347133,
+      "name": "Anastasia Polovinkina",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6669176702,
+      "name": "Бот помощник",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5751862181,
+      "name": "дашины маршруты",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 314341634,
+      "name": "Larisa Buzunova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1620230742,
+      "name": "Дмитрий Глобин",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1224660821,
+      "name": "Yana",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 510593202,
+      "name": "Anna Kellareva",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7607771291,
+      "name": "Nikoliay K",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5877862316,
+      "name": "Джордже Костич",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 429450830,
+      "name": "Нина Ценных",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 911813764,
+      "name": "Victoriya Andriyanova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7573741153,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1464628821,
+      "name": "Roman",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 873079790,
+      "name": "Margarita Samoilova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2078319668,
+      "name": "Olga",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 252994199,
+      "name": "Екатерина Сагатовская",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 863793368,
+      "name": "Tanya Adamova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 8174921824,
+      "name": "Московский помощник",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 8030909403,
+      "name": "Московский помощник",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5800537837,
+      "name": "Nata Istomina",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6348373839,
+      "name": "Альбина Копирайтер",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 691828510,
+      "name": "Ольга Ломанова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 322758542,
+      "name": "Улия Левина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 416236161,
+      "name": "Том Лукич",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 956392484,
+      "name": "Kate",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 494042486,
+      "name": "Анна Пронская",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 537777318,
+      "name": "Маша Розет",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4756787980,
+      "name": "Зима 25 - Колористика в дизайне интерьеров (онлайн интенсив)",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 4683447747,
+      "name": "Броновицкая в Берлине",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 904971749,
+      "name": "Декорирование интерьера 2023 БВШД",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 863611736,
+      "name": "Sonya Bakuma",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1881358722,
+      "name": "Masterpeace Spa",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 568744770,
+      "name": "Наталья Прокопьева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1331088857,
+      "name": "Ольга Кирова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 752392523,
+      "name": "Анастасия Ермилина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1440605438,
+      "name": "Maria Rosman",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 900983872,
+      "name": "Valeriya",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1749875302,
+      "name": "Anastasia",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1198077744,
+      "name": "Виктория",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7730163053,
+      "name": "Липатова Мария Егоровна Борисовская",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1033878797,
+      "name": "Маша Бровкина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2293661920,
+      "name": "Архитектура и дизайн XX-XXI века",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1045345217,
+      "name": "Наталья Титова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 819710827,
+      "name": "Виржиния Левинти",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5973933147,
+      "name": "Super Sulim - English Greeting Bot",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 975983795,
+      "name": "Юлия Симоненко",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2214785989,
+      "name": "Лето 24 - Совр. искусство в дизайне интерьеров (онлайн интенсив)",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1064915042,
+      "name": "MAG Architecture",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 432046105,
+      "name": "Екатерина Володина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1151382889,
+      "name": "Ольга Титова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6419245315,
+      "name": "Покачалова Екатерина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4553143369,
+      "name": "СЕМЬЯШЕЧКА",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 140442289,
+      "name": "Михаил Новосибирск Ясюкевич",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4500125641,
+      "name": "Стильные-Текстильные х Британка",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 656549625,
+      "name": "🌜🐨 🌝🌛",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1863107628,
+      "name": "Декорирование интерьера БВШД",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 7481454948,
+      "name": "Виталий Стеллажи Стэйдж",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 424785292,
+      "name": "Светлана Кулакова Рамы",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1944515360,
+      "name": "«Поток заявок» Клиенты дизайнеру интерьера",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 361014666,
+      "name": "Mariya Tkachuk",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4064071703,
+      "name": "Декорирование (дневная)",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 880484265,
+      "name": "Elena Grinberg",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4741207007,
+      "name": "Архитектура и дизайн XX-XXI века",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 418975108,
+      "name": "BALABINA Елена Балабина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6759903829,
+      "name": "Оксана",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 960228111,
+      "name": "Анастасия Крылова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 361675005,
+      "name": "Ванюшина Оля",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 8065677882,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6848589507,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2018997325,
+      "name": "Машина свадьба",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 248764067,
+      "name": "Vladimir Ivanov",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7939769829,
+      "name": "Анастасия ЗИЛ Арт",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 40288568,
+      "name": "Гриша Яковлев",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 765761358,
+      "name": "Мастюгина Екатерина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7444374148,
+      "name": "jumiserbia",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1169958028,
+      "name": "Faith",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7872131395,
+      "name": "Арх Орел Ирина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 789638544,
+      "name": "Marina",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6702291552,
+      "name": "Новое уведомление!",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1708634271,
+      "name": "Elena Uspenskaya",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7682889732,
+      "name": "IT Vik",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 73754396,
+      "name": "Anastasia",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 171971612,
+      "name": "Наталья Трубникова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 413871372,
+      "name": "Наталья Шарпанова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1069100184,
+      "name": "Vera Leo",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 996384197,
+      "name": "Олеся",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4556574271,
+      "name": "Официальная декор.",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 475138024,
+      "name": "Dima Bezdetniy Дима Бездетный",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 273233298,
+      "name": "Margarita Kirillova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6199137669,
+      "name": "ОСВЕДОМИТЕЛЬ",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 147780710,
+      "name": "Яна",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 786251164,
+      "name": "Мария",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4088204383,
+      "name": "Галерея проектов х Британка",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 6849958653,
+      "name": "Якушева Ольга Фэшн",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4049552050,
+      "name": "Декорирование (вечерняя)",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 1399868198,
+      "name": "Alexandra",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 266577070,
+      "name": "Анна Телери",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7852941171,
+      "name": "Таня Терехова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 377881037,
+      "name": "IrinaPyvina",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 670445967,
+      "name": "Лилия",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1310327152,
+      "name": "Уехавшая Россия",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 559456839,
+      "name": "Артеменко Таня",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4270685153,
+      "name": "чат по Леруа Мерлен",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 7362069148,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 63033048,
+      "name": "Маша Эрман",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2113777978,
+      "name": "Виктория | Путь к мечте",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1025032840,
+      "name": "Екатерина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4587944253,
+      "name": "Paris after tour",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 252172427,
+      "name": "Ксения Боричева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 462426011,
+      "name": "Мария Павлова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 508823454,
+      "name": "Елена Малкова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2229235975,
+      "name": "Лето 24 - Колористика в дизайне интерьеров (онлайн интенсив)",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 7545170110,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 354791030,
+      "name": "Vik Maslova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 614416202,
+      "name": "Степан Фролов",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6039692842,
+      "name": "Hi 👋",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 752455562,
+      "name": "Шитова Света",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7424732694,
+      "name": "Помощница Бабушки Яги",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7097144421,
+      "name": "Марина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 868371247,
+      "name": "Sangria",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2036345373,
+      "name": "Кирилл Чебурашкин",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 776414364,
+      "name": "ekaterina",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1102115032,
+      "name": "Viktoriya SVdesign",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4189250871,
+      "name": "Трекеры_Декорирование интерьера",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 7134128708,
+      "name": "Секреты \"Травиаты\"",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 504969286,
+      "name": "Irina Yasyukevich 🐼",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4268361754,
+      "name": "Декор",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 33898026,
+      "name": "Yulia Churbanova (Shmakova)",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1482416589,
+      "name": "Полина Маранс",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1195566243,
+      "name": "FUNNY ENGLISH | Английский по видео",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 409617547,
+      "name": "Nata",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7339540905,
+      "name": "Ирина Арбат Начарова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1007980027,
+      "name": "Ирина Костина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 485186639,
+      "name": "Дарья Гейлер",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 604613883,
+      "name": "Nata Yakovleva",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7233514116,
+      "name": "Будва Игорь",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4244041998,
+      "name": "Лето 24 - Колористика в дизайне интерьеров (онлайн интенсив)",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 5337485575,
+      "name": "Premium Join Bot",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6781201697,
+      "name": "Бесплатный миджорней бот для генерации картинок",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6742320494,
+      "name": "ПРИВАТНЫЙ КЛУБ",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4007616063,
+      "name": "Сербовики",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 1910451408,
+      "name": "Декорирование_Команда 2",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 4204050932,
+      "name": "Комиссия Декор",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 2041160427,
+      "name": "Триада Власти",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 377612463,
+      "name": "Анна Резинских",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7486078185,
+      "name": "Марианна",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1301760368,
+      "name": "Ольга Вукович",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4201068402,
+      "name": "Лето 24 - Совр. искусство в дизайне интерьеров (онлайн интенсив)",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 56147743,
+      "name": "Алена Набор Британка",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7018920722,
+      "name": "Time оппозиционный",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2090476687,
+      "name": "Декорирование_Команда 14",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2110543604,
+      "name": "Декорирование _Команда 6",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2116781798,
+      "name": "Декорирование _Команда 9",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 191344098,
+      "name": "Julia",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7044328610,
+      "name": "Анар",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2048740213,
+      "name": "Декорирование_Команда 5",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1996520886,
+      "name": "Декорирование_Команда 1",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 5834227294,
+      "name": "Доктор АйБолит",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 494141466,
+      "name": "Наталья",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 686495554,
+      "name": "Юлия Левашова🎨",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 147255368,
+      "name": "Даша Флорист",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7300616021,
+      "name": "Копейка рубль бережёт",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 300059331,
+      "name": "Svetlana Dorfman",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7090073356,
+      "name": "Сергей 1 Тверская - Ямская",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7021569715,
+      "name": "Максим Шатов",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 305448672,
+      "name": "Анастасия",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7409943927,
+      "name": "Igor Solovev",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 391653240,
+      "name": "Maxim Shumakov",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 484307920,
+      "name": "Елена",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7303976737,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1493299476,
+      "name": "Елизавета",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 364493998,
+      "name": "Ева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 375251207,
+      "name": "Elena",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2068903753,
+      "name": "Декорирование _Команда 15",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 289432565,
+      "name": "Аполлинария (Полина)",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2104837954,
+      "name": "Декорирование _Команда 13",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1771583317,
+      "name": "Ольга Калинина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 793256468,
+      "name": "Alina",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7107439152,
+      "name": "Ивица Николич",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1030680979,
+      "name": "Катюша",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4141659574,
+      "name": "Tikkurila х Британка",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 659039375,
+      "name": "Анна Гилева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 395600581,
+      "name": "Anastasia Maslovskaia",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2136973695,
+      "name": "Декорирование_Команда 3",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 467317025,
+      "name": "Кристианна",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7051136396,
+      "name": "Лилит",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 466491253,
+      "name": "Tatiana Kunitsina",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6817324151,
+      "name": "ГосВыплата",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6915664172,
+      "name": "Гриша Яковлев",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7166512147,
+      "name": "📢 GitHub Сообщает",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5664949318,
+      "name": "Maria Ukolova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7145070154,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2136672191,
+      "name": "Декорирование _Команда 11",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 394176321,
+      "name": "Yana Savina",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4157512907,
+      "name": "Машина свадьба",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 2075248541,
+      "name": "Декорирование _Команда 8",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 584993736,
+      "name": "Natali Foxik",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2059683285,
+      "name": "Декорирование _Команда 7",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2046393684,
+      "name": "Декорирование_Команда 10",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 2065421247,
+      "name": "Декорирование _Команда 12",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 98308367,
+      "name": "Динара Хайретдинова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 292571840,
+      "name": "Елена Полищук",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1178127491,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1922146395,
+      "name": "Декорирование_Команда 4",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 7112681387,
+      "name": "Проверка по ГОСТу",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6699496013,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5407844274,
+      "name": "Никита Семчурин",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6194912770,
+      "name": "Виктор",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5861256732,
+      "name": "Андрей",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 333655113,
+      "name": "Nick",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7117414083,
+      "name": "Даша Фокина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4165529768,
+      "name": "Декорирование_Команда 1",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 4138146680,
+      "name": "Декорирование_Команда 2",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 4158399993,
+      "name": "Декорирование_Команда 3",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 4151646838,
+      "name": "Декорирование_Команда 4",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 4148141952,
+      "name": "Декорирование _Команда 6",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 4166838671,
+      "name": "Декорирование _Команда 7",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 4164888376,
+      "name": "Декорирование _Команда 8",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 4126559863,
+      "name": "Декорирование_Команда 10",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 4151825199,
+      "name": "Декорирование _Команда 11",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 4179859761,
+      "name": "Декорирование _Команда 12",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 4147423266,
+      "name": "Декорирование _Команда 13",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 4150305853,
+      "name": "Декорирование_Команда 14",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 4116458960,
+      "name": "Декорирование_Команда 5",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 4199470321,
+      "name": "Декорирование _Команда 9",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 4174390348,
+      "name": "Декорирование _Команда 15",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 5359813565,
+      "name": "Артём Дежурко",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7109153539,
+      "name": "Москва и точка | Московская хроника",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 303009060,
+      "name": "9X8",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 887719971,
+      "name": "Курс декорирования / Британка / дневная группа",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 1730403532,
+      "name": "Palchiki_com",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 137823192,
+      "name": "Anna",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6919218278,
+      "name": "Marko",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 230316331,
+      "name": "Александр Ким Ресторан От Джордже",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 444037043,
+      "name": "Настя Козлова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4147855342,
+      "name": "Проект ресторана (Ульяновск)",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 7038908744,
+      "name": "Точный Эрмитаж",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 702518453,
+      "name": "Laily Nasretdinova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4016238765,
+      "name": "Колоквиум ДИБК 22-24 (1, 3 группа)",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 107147782,
+      "name": "Гузаль",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 259981207,
+      "name": "Elena староста Alexandrova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1870329105,
+      "name": "Alya *",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 238802320,
+      "name": "Julia Dubrovskaia",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5125425401,
+      "name": "Анна",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6416462712,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 832789094,
+      "name": "Ольга Косырева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6527091200,
+      "name": "Esthy Rozet",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 7102480958,
+      "name": "WSJ - Важное",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 710687726,
+      "name": "Экспертный совет ВМДИ",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 348046608,
+      "name": "Сергей Тулецков",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1440552238,
+      "name": "Архподкаст",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 6895616675,
+      "name": "Информационный бот",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6530620954,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4066091643,
+      "name": "Приключения в Стамбуле - чатик",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 463160801,
+      "name": "Богдановский Андрей Мантра",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 685404180,
+      "name": "Фаина Тихонова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6846677744,
+      "name": "Светлана",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5586164304,
+      "name": "ChatGPT",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 414558071,
+      "name": "Darya Kaluja",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1065201808,
+      "name": "Анна Соколова Ассистент",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 736430452,
+      "name": "Ե.Ռ.🎶",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 331748324,
+      "name": "Stasya",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6914566378,
+      "name": "Пенсионеры России",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6509134041,
+      "name": "Финансовый Помощник",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6524445610,
+      "name": "Заявка одобрена!",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2062765969,
+      "name": "Искусство Декорирования Интерьера",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 765430212,
+      "name": "Nadezda",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6617506789,
+      "name": "MasterSerbia",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5205319516,
+      "name": "Лора Лоц",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1092649045,
+      "name": "Юлия Хмелюк. Гид В милане",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1175345839,
+      "name": "Katy",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 286167526,
+      "name": "Lyubov Timokhina",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 330635044,
+      "name": "Anna Rodionova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5799069760,
+      "name": "Adversum School",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 325518280,
+      "name": "Настасья Островская",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 228274454,
+      "name": "Polly | web-design 🫐",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6538025023,
+      "name": "Ольга ГетКурс",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5062204993,
+      "name": "Ольга Зубкова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6745461840,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 149942719,
+      "name": "Masha Borzenkova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 76826305,
+      "name": "Наталья Очкова Бренд - Менеджер",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1746895983,
+      "name": "Артем Юрьевич Нейрохирург",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6339793043,
+      "name": "Антонина Плитка Леруа",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6570971820,
+      "name": "Александр",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6090829198,
+      "name": "Александр",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 809149867,
+      "name": "Тбилиси, дизайн-проект",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 5188058392,
+      "name": "Amilika Lungard",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6908178588,
+      "name": "Лена Даминова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 263188555,
+      "name": "Katerina Kelberg",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6030388832,
+      "name": "NeuroGPT — FUSION 🤖",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6241016475,
+      "name": "Амилика Лунгард",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 385760204,
+      "name": "Анна Муравина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6790005127,
+      "name": "Ольга Трошер Контемпорари Вена",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 815419677,
+      "name": "Маша Игнатова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2008090656,
+      "name": "Aron",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 151345297,
+      "name": "Alyona Sokolnikova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 223556174,
+      "name": "Софья Бурмистрова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1118126475,
+      "name": "Наталья Кириченко",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 329097872,
+      "name": "Sonya Moiseenko",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5984836697,
+      "name": "artbot",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 626439490,
+      "name": "Masha Mamai",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6638964407,
+      "name": "reposted_bot",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6431732995,
+      "name": "Рутя",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 934732733,
+      "name": "Кристина Джаниева KD",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6544944035,
+      "name": "Светлана Краски Тогнели",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 4035423441,
+      "name": "Современное искусство и Дизайн Интерьеров",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 6585841673,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6081073465,
+      "name": "Сергей Серебровский",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6388326581,
+      "name": "Квартирный вопрос - Советы",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 3227230,
+      "name": "Alexey Shalin",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1356028653,
+      "name": "FORTUNE COOKIE | Английский по печенькам",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 6430847857,
+      "name": "М-Мотивация",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6452638415,
+      "name": "Помощник",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 445774146,
+      "name": "Vitaly",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6558971676,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6413567906,
+      "name": "Надежда Николаевна Лазарева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 484049104,
+      "name": "Maria Maria",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6698419396,
+      "name": "Анна Wermissen",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 460268298,
+      "name": "Елена Титова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 391369071,
+      "name": "Ольга Конвей",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 833215784,
+      "name": "Aleks K",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6233989687,
+      "name": "Lider Move - transfer Serbia, визараны, трансферы. СЕРБИЯ",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1461072834,
+      "name": "Design Labodina",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 6427422208,
+      "name": "Щеглова Елена Узбекистан",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6417619861,
+      "name": "Юрий",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 936273540,
+      "name": "Виктор Музыка",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6320032454,
+      "name": "Петр Лазаревич",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 374747774,
+      "name": "Laura ✨",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6577396908,
+      "name": "Александр Такси",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1130594009,
+      "name": "Кунс Одобряет!",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 438894855,
+      "name": "Илья",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6306968491,
+      "name": "Уведомление",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6033797578,
+      "name": "Белград Алекандр Анатольевич",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5031234885,
+      "name": "Гоша",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2010318942,
+      "name": "IL",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1905886846,
+      "name": "Алло, Эрмитаж?",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 6463598974,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1884789832,
+      "name": "Midjourney | Нейросети",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1619841108,
+      "name": "Декорирование_весна22",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1173939418,
+      "name": "Raya Zotare",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6284256053,
+      "name": "Будь Здоров",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6083018357,
+      "name": "Travel Bot",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 880011006,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5500412900,
+      "name": "Gordan Jordanovic",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5637995252,
+      "name": "IT - НейроБот",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6030712022,
+      "name": "Зигмунд Фрейд 🧠",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 418781319,
+      "name": "Диитрий Федотов Фотошоп Британка",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 226864350,
+      "name": ".takai",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6017979845,
+      "name": "Подборка лучших материалов!",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 870617072,
+      "name": "Виктория Богданова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5818798149,
+      "name": "Милана",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1103861157,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 904370005,
+      "name": "Всем доброго дня",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 6252767961,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 533722860,
+      "name": "Daria Sedova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5983806625,
+      "name": "Natalia Petrova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 144933833,
+      "name": "Вадим Разумов",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1106084430,
+      "name": "Екатерина Григорьева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 279473165,
+      "name": "Masha Shuster",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2059170222,
+      "name": "Елена Сазонова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 278948475,
+      "name": "VikaSweetneva",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 316682594,
+      "name": "Ella Li",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6112526533,
+      "name": "Лариса Цветы В Деталях",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6106546652,
+      "name": "AirCourier",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5548528157,
+      "name": "TRUSTEXP",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 935311823,
+      "name": "Мила",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 405999299,
+      "name": "А K",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 283793673,
+      "name": "Арина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 435595325,
+      "name": "Kristina Razumova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 946235756,
+      "name": "7 мая_Психология цвета",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 5836689609,
+      "name": "Для здоровья и счастья",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1910150688,
+      "name": "Elena Akimova MDW2023",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 519855930,
+      "name": "Anna Zaharova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 280442990,
+      "name": "Батеньков Александр",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 51209055,
+      "name": "Дима Логинов",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 352900379,
+      "name": "Eugenia",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6102682043,
+      "name": "Татьяна Викторовна",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1865330443,
+      "name": "Create with passion",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1474675720,
+      "name": "Синие трубы",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 344941261,
+      "name": "Дарья Координатор Трощенкова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 363720906,
+      "name": "Irina Makarova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1837294997,
+      "name": "Декорирование. Продвинутый курс",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 6291995857,
+      "name": "Михаил Строитель",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1071365669,
+      "name": "Павел Чиков 🕊",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 451414025,
+      "name": "Нина Мотолова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 264455462,
+      "name": "sowhatsophie",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6145937157,
+      "name": "Наталья Додонова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 483707758,
+      "name": "Jerry Smile",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 117864185,
+      "name": "Nadya Smirnova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 459768134,
+      "name": "Максим Kопалов🏛️",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 160824952,
+      "name": "Серафима Детали",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 724356461,
+      "name": "Татьяна Орлова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1112503341,
+      "name": "VELIKAYA .",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 707297025,
+      "name": "Зиля",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6249852476,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5461900319,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1104849923,
+      "name": "Inna",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6074356468,
+      "name": "Евгения Олсуфьева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 810047905,
+      "name": "Pavel Shirokikh",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 304495695,
+      "name": "Даша Маркетинг",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1214084495,
+      "name": "Дизайн с Анной Муравиной",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 409368633,
+      "name": "Reg",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 593328068,
+      "name": "Svetlana K",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 272806013,
+      "name": "Anastasia",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 324975938,
+      "name": "Ляйсан",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5654473319,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 325190727,
+      "name": "Sasha Faynblit",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1088790354,
+      "name": "Nico",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5996647732,
+      "name": "Артур Водитель Вена",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1115062541,
+      "name": "Алена Парфенова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 826331118,
+      "name": "Ольга Пухова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 123087204,
+      "name": "Natalia",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 6020886973,
+      "name": "Даша 1 гр, 20-21",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 791386819,
+      "name": "Ольга Гершман",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 426012048,
+      "name": "Елена Медведникова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 492294666,
+      "name": "Юля Голавская",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1954393963,
+      "name": "Ирина Ефремова! Ефремова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 333411934,
+      "name": "Ангелина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1097428448,
+      "name": "Илектра",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5606263643,
+      "name": "Irina Kryukova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1146282496,
+      "name": "Элла",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 541518871,
+      "name": "Арбузова Евгения",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 763226841,
+      "name": "Анна Зингер",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 856309985,
+      "name": "Валерия Гурьянова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5608880972,
+      "name": "Bot",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5943467986,
+      "name": "Ольга, Костюмы Цдл",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5895489980,
+      "name": "Елена Алекс Лефкадия",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5892981385,
+      "name": "Майя",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 891252072,
+      "name": "Ёлка Английская",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 1347915492,
+      "name": "Диана Британка",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 345196178,
+      "name": "Olya V",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1997385412,
+      "name": "Оксана Биербаумер",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5856542499,
+      "name": "Юлия Сахно",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 230480205,
+      "name": "Саша Мершиев Декор Мебели",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 713103157,
+      "name": "Номинация «Промдизайн»",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 326013321,
+      "name": "Елизавета 📲",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1700913529,
+      "name": "Иришка Доктор Коордиолог Мосендз",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 288769332,
+      "name": "Мосендз Татьяна",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5714331352,
+      "name": "Ольга",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 480601460,
+      "name": "Burakova Tatiana",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 351767650,
+      "name": "Liza",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 943755978,
+      "name": "Ксения Вуд",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1783058403,
+      "name": "Логинова _Lo о музее",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 102085380,
+      "name": "Madina сербия",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 366602210,
+      "name": "Мария Маркова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5637627442,
+      "name": "Алина Парикмахер От Веры",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 982885613,
+      "name": "Геннадий Носков",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5740809667,
+      "name": "Таня Терехова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 288235145,
+      "name": "Виктор Юрист",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1084584591,
+      "name": "Город и люди",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 5512994109,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5699124117,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5573922501,
+      "name": "Михаил Новосиб Сербия",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 762036175,
+      "name": "Декорирование. Продвинутый курс",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 5659454822,
+      "name": "Кобзева Галина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1268267148,
+      "name": "ANNA BOND | маркетолог | эксперт по продвижению вас и вашего бизнеса",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5374454282,
+      "name": "Хочу тут жить",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 100068664,
+      "name": "Karima Musaeva",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5152848796,
+      "name": "Numia - Гороскопы, хиромантия, биоритмы, совместимость",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5762145777,
+      "name": "Сорока Шоу Рум",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 841674834,
+      "name": "Media Salutes",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5604365649,
+      "name": "Он Лайн Академия",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 357516688,
+      "name": "Алина Заикина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5543852101,
+      "name": "Леня",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5538888351,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 55047376,
+      "name": "Valeriia Markova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5468057994,
+      "name": "Джордже Москва",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1485194624,
+      "name": "Ksenia",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1035457310,
+      "name": "Мемезатор Алёшенька",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5426351163,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1677158696,
+      "name": "Юлия Володина Координатор Декор 22",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1049022378,
+      "name": "Анастасия Кадо",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 425619021,
+      "name": "Katya Sever",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5508473634,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 136377024,
+      "name": "Мира",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5514721282,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 112200398,
+      "name": "Olga",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 662574757,
+      "name": "Дипломники Эрмитаж",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 544338960,
+      "name": "Юлия Лопухова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 855138795,
+      "name": "Olga Gor",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 210643211,
+      "name": "Nadine",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 356518038,
+      "name": "Анастасия",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 157616852,
+      "name": "Margo",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1924700751,
+      "name": "Надежда Чекунова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1228699326,
+      "name": "Ирина Глонягина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 404051723,
+      "name": "Gala",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5395747409,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 623947078,
+      "name": "Декорирование ДИБК 4 группа",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 1566899630,
+      "name": "🫧Yana",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 486448710,
+      "name": "Anna R",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 307659042,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1187971344,
+      "name": "Юля Есига",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5330064628,
+      "name": "Лариса",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 328941444,
+      "name": "Olya Orlova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5327896259,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 505901208,
+      "name": "Мария Чуварыгина 5 Гр",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1778516080,
+      "name": "Design Connect",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 161194874,
+      "name": "Марина Волкова 2 Курс Диз",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5312977754,
+      "name": "Виталий Роев Риэлтор",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5234721372,
+      "name": "Рафаил",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1304613566,
+      "name": "Дима Зицер на Маяке - \"Любить нельзя воспитывать\"",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 5292139179,
+      "name": "Вера Из вены",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5226313904,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 872811435,
+      "name": "Alina Akhmyatova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1640281930,
+      "name": "RadioROZETka",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 5105977982,
+      "name": "Светлана юматова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5235558005,
+      "name": "Анастасия Докучаева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5282496317,
+      "name": "Гера",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5126771910,
+      "name": "Павел деденево",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5272615700,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 342748723,
+      "name": "Sergey Smirnov",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1454566597,
+      "name": "💚Дом без химии💚",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 719990995,
+      "name": "Декорирование_весна22",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 5129299277,
+      "name": "Галина Петрова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5143054400,
+      "name": "Софья От Давида",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5248548815,
+      "name": "Ольга Крупина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5239875111,
+      "name": "Rivka Skalka",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1570707811,
+      "name": "Atelier CHOUTKO",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1275085924,
+      "name": "Нагая / Nue",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 5138929661,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5244284597,
+      "name": "Анна Акилова Строгановка",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5155222288,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5105078720,
+      "name": "Татьяна Гид Сербия",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5248754702,
+      "name": "Ирина Бухгалтер",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5241366225,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5193287850,
+      "name": "Ekaterina Limonad",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1419687164,
+      "name": "Татлер-батлер",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 5256401953,
+      "name": "Antoaneta Acimovic",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 730665595,
+      "name": "Grigorii Timofeev",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5226996614,
+      "name": "RM",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5296580272,
+      "name": "Тоня Художник",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5011537149,
+      "name": "Вена Лера",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5178751859,
+      "name": "Елена ДПИ Строгановка",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5277413454,
+      "name": "Исаев Дима",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5299182440,
+      "name": "Катя Неволина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5218512930,
+      "name": "Ваня Внуково",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1224267142,
+      "name": "Коленки Муравиной",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 5220062463,
+      "name": "Александр Волков",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5177606432,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5120772352,
+      "name": "Павлова Галина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1646696776,
+      "name": "Михаил Степанов Фото",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5036362603,
+      "name": "Татьяна Архитектор Детали",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5066969840,
+      "name": "Вита Боровик",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 244559618,
+      "name": "Polina Danilova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5054152790,
+      "name": "Олег, Чертежи, Проект",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 99259382,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 179003464,
+      "name": "Elena",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 745118963,
+      "name": "Мария школа тюмень",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 5007484578,
+      "name": "Костя нфремов",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2145988156,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2120639599,
+      "name": "Маша Романова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2119248670,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 883497800,
+      "name": "Anna Bekeneva",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 163583860,
+      "name": "Саша Дек Музей Лекторий",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 992648636,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2064978172,
+      "name": "Александр, Орел",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2060279901,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2070218816,
+      "name": "Кучина Т",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1206221912,
+      "name": "Анастасия Смелова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2034702507,
+      "name": "Zarina Gallerina",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2052352417,
+      "name": "Петр Орлов",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2032825921,
+      "name": "Наталья Порошина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1989497415,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1783396012,
+      "name": "Румина Махачкала",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 473864943,
+      "name": "Tanya Omarova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2028003726,
+      "name": "Костя Соловьев",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1796430688,
+      "name": "Юлия Бушуева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1966083906,
+      "name": "Андрей Строительство",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1992595473,
+      "name": "Валда",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1994773656,
+      "name": "Ампир Екатерина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 506448931,
+      "name": "Портреты семьи",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 1321518679,
+      "name": "Английский язык",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1949530762,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 269710435,
+      "name": "Lyubov",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1739718150,
+      "name": "Света Качано вская",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1853268056,
+      "name": "Тиана, Препод Эстер",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1711907658,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 628215695,
+      "name": "Анна Британка, Съемки",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1791492627,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1841036096,
+      "name": "Владимир Романович Ким Метр",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1785226540,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 199857803,
+      "name": "Alisha Kosh",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1859786510,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 539558276,
+      "name": "SS design",
+      "type": "ChatForbidden",
+      "archived": false
+    },
+    {
+      "id": 1867981464,
+      "name": "Галина Григорьевна",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 54488148,
+      "name": "Vika Baikova",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1282596622,
+      "name": "Андрей Преснов",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1786527418,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1829438207,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 44500865,
+      "name": "Vera Zhazhina",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 11627178,
+      "name": "Arina Pushkina",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1702960580,
+      "name": "Ринат Такси",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1853646607,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1700925841,
+      "name": "Александра Строгановка",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1653301321,
+      "name": "Ольга Орел",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1782790440,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1743467750,
+      "name": "Даша Шторы",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1792008248,
+      "name": "Сева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1787751202,
+      "name": "Азиза",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1679173726,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1600215793,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1680702913,
+      "name": "Иван Басов",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1565649276,
+      "name": "Olga Shchegolskaya",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1571726925,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 283472198,
+      "name": "Михаил, Координатор",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1692324673,
+      "name": "Филлип Порт",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1689608652,
+      "name": "Денис Саленов",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1343751955,
+      "name": "Ольга Морозова ( Блонд)",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1449826404,
+      "name": "Константин Абрамов",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1522870153,
+      "name": "Елена Боргезе",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1206233752,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 147248561,
+      "name": "@essenya @TBR",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1409475413,
+      "name": "Сергей Николаевич Завуч От Виктории",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1471832883,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1407040999,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1438992269,
+      "name": "Гринорий",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1334010822,
+      "name": "Владислав",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1219458223,
+      "name": "Ирина Косметолог",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1390374207,
+      "name": "Марина Гисич",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 125464382,
+      "name": "Елена Федотова Калининград",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1363864735,
+      "name": "Володя Озеров",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1113486032,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1336189667,
+      "name": "Люся Малкис",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1253140411,
+      "name": "Елена Мтс",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1289460280,
+      "name": "Максим Гл Инж Стайдж",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1086950867,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1373099696,
+      "name": "Светлана",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1125946189,
+      "name": "Галина Массаж",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 343786054,
+      "name": "Наталья Черникова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1192376792,
+      "name": "Надя Ананьева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1120030439,
+      "name": "Вена Елена",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1308421702,
+      "name": "Инга Иса",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1379384806,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1183240185,
+      "name": "Алена Леруа",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1201537603,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1116237360,
+      "name": "Муравьевых Апостолов Татьяна Савельевна Макеева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1282554774,
+      "name": "Манана Чебоксары",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1108117249,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 950908815,
+      "name": "Зубец",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1160266694,
+      "name": "Что Нового?",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 1279500801,
+      "name": "Юлия",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1204531237,
+      "name": "Саша Массаж",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1191565253,
+      "name": "Светлана Производство Щукин",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1164517917,
+      "name": "Ирина Систерс",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 953545483,
+      "name": "Сандра Димитрович",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1099152976,
+      "name": "Танцы Марина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1265110393,
+      "name": "Гаврилин",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1077789258,
+      "name": "Алексей Сосед",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1224272807,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1164426319,
+      "name": "Михаил Елизаров",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1106636803,
+      "name": "Ольга Кузнецова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 317503772,
+      "name": "Юния",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1109931825,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 300389440,
+      "name": "Шер",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1113874728,
+      "name": "Настя Шерварли",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 879807321,
+      "name": "Алена Собств",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1040318522,
+      "name": "Екатерина Гмии",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1036837906,
+      "name": "Елена Богославская",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1076241172,
+      "name": "Юлия Равинская",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 907889479,
+      "name": "Марков Константин Влад",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1095430782,
+      "name": "Косыгина Екатерина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1009758262,
+      "name": "Михаил Юрьевич Габлия Почки",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 302312981,
+      "name": "💚Дом без химии💚",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 1006667996,
+      "name": "Александр Шервин",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 849116899,
+      "name": "Изотова Катя",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 906942306,
+      "name": "Диля",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1009110853,
+      "name": "Наталья Алабян",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 935761776,
+      "name": "Ольга Юрьевна Музыкант",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 919022933,
+      "name": "Лейсан!",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 225618485,
+      "name": "Ольга Лунева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1022466089,
+      "name": "Нино Купарадзе",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1000578873,
+      "name": "Зоя",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 925677395,
+      "name": "Маша Венеция",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 990359946,
+      "name": "Илона",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 870511739,
+      "name": "Таня Будва",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 337120296,
+      "name": "Просьба",
+      "type": "Chat",
+      "archived": false
+    },
+    {
+      "id": 1004110014,
+      "name": "🕸",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 916912108,
+      "name": "Анна Искусство",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 638983439,
+      "name": "Van Юрич",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 906354153,
+      "name": "Жанна",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 881447591,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 976356862,
+      "name": "Лариса Цветкова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 735492133,
+      "name": "Директор Цдл",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 954496108,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 725745102,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 956835746,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 817479108,
+      "name": "Анастасия Гришина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 987132558,
+      "name": "Vladimirs Aksjonovs",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 940252333,
+      "name": "Наталья Лебедева",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 985141648,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 811757247,
+      "name": "Екатерина Лионтекс",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 880126994,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 783180677,
+      "name": "Татьяна Матюшко",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 1344980235,
+      "name": "ArtFlera",
+      "type": "Channel",
+      "archived": false
+    },
+    {
+      "id": 855335621,
+      "name": "Сергей Сизый",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 885647894,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 715154714,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 805095634,
+      "name": "Грабли Александр",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 875234177,
+      "name": "Станислав",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 894179644,
+      "name": "Владимир Савельев",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 772107030,
+      "name": "Анастасия, Секретарь, Ресторан",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 719226436,
+      "name": "Саша Студентка Британки",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 720590402,
+      "name": "Гер",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 706874094,
+      "name": "Менахем Паперно",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 752653386,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 771373078,
+      "name": "Ольга Кадо",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 670571578,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 700256965,
+      "name": "Руслан",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 779511573,
+      "name": "Елена Пашкова Лефкадия",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 191921815,
+      "name": "Альбина Вафина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 782338440,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 442301442,
+      "name": "Диана Балашова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 200262221,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 568706160,
+      "name": "Feruz Rustamov фотограф Ташкент",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 371681979,
+      "name": "Мариника Маратовна Банбазарова",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 412962158,
+      "name": "Urbanfood",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 402268638,
+      "name": "Британка Полина",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 515337443,
+      "name": "Лилит",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 299802915,
+      "name": "Сердар",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 385645529,
+      "name": "remontexpress",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 302515322,
+      "name": "Катя Тищенко",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 123128772,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 142521877,
+      "name": "",
+      "type": "User",
+      "archived": false
+    },
+    {
+      "id": 2688231781,
+      "name": "ДЕЛАЕМ",
+      "type": "Channel",
+      "archived": true
+    },
+    {
+      "id": 1788409276,
+      "name": "Школа Дизайна Детали",
+      "type": "Channel",
+      "archived": true
+    },
+    {
+      "id": 1509846260,
+      "name": "ReuseArch",
+      "type": "Channel",
+      "archived": true
+    },
+    {
+      "id": 1664352797,
+      "name": "Dasha Soboleva",
+      "type": "Channel",
+      "archived": true
+    },
+    {
+      "id": 1782599140,
+      "name": "зеленый IN/EX",
+      "type": "Channel",
+      "archived": true
+    },
+    {
+      "id": 1651181345,
+      "name": "НИИ Декорирования",
+      "type": "Channel",
+      "archived": true
+    },
+    {
+      "id": 1647038734,
+      "name": "Анна Эрман",
+      "type": "Channel",
+      "archived": true
+    }
+  ]
+}
