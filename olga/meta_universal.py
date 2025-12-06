@@ -14,15 +14,28 @@
     - любые будущие проекты
 """
 
+import yaml
+from pathlib import Path
+
 # ============================================================================
-# ЕДИНСТВЕННЫЙ ИСТОЧНИК ИСТИНЫ
+# ЧИТАЕМ DATA.yaml — ЕДИНСТВЕННЫЙ ИСТОЧНИК ИСТИНЫ
 # ============================================================================
 
+def load_data():
+    """Читает DATA.yaml из корня проекта"""
+    data_path = Path(__file__).parent / 'DATA.yaml'
+    with open(data_path, 'r', encoding='utf-8') as f:
+        return yaml.safe_load(f)
+
+# Загрузить данные
+DATA = load_data()
+
+# Извлечь константы
+HELP_EMAIL = DATA['contacts']['email']
+HELP_TELEGRAM = DATA['contacts']['telegram_account']
 HELP_TITLE = "Нужна помощь?"
-HELP_QUESTION = "Не можете себе позволить? Возможно, что-нибудь придумаем."
-HELP_EMAIL = "o.g.rozet@gmail.com"
+HELP_QUESTION = DATA['meta_principles']['accessibility']
 HELP_SUBJECT = "Субсидия"
-HELP_TELEGRAM = "@ORozet"
 
 # ============================================================================
 # ГЕНЕРАТОРЫ ДЛЯ РАЗНЫХ КАНАЛОВ

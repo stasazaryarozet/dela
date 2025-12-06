@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.stasazaryarozet.dela.sync</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○/tools/sync_daemon.py</string>
+    </array>
+    <key>WorkingDirectory</key>
+    <string>/Users/azaryarozet/Library/Mobile Documents/com~apple~CloudDocs/○</string>
+    <key>StartInterval</key>
+    <integer>300</integer>
+    <key>StandardOutPath</key>
+    <string>/tmp/dela.sync.out</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/dela.sync.err</string>
+    <key>RunAtLoad</key>
+    <true/>
+</dict>
+</plist>

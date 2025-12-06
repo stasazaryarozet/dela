@@ -70,6 +70,3 @@ The requested URL returned error: 503
 _Последнее обновление: 19 ноября 2025, 00:44 МСК_
 
 
-
-
-

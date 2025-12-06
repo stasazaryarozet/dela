@@ -29,6 +29,10 @@ events:
     price: 5000
     lunch_note: "Обед в ресторане ЦДЛ вы оплачиваете отдельно по меню ресторана"
     capacity: 25
+    budget:
+      expenses:
+        projector_rent: 10000
+        microphone_rode_wireless_pro: 40585
     url: "chl/"
     description: "Наблюдение, память, материя"
     accessibility_note: "Нет 5 000 ₽? Возможно, что-нибудь придумаем. Пожалуйста, пишите."
