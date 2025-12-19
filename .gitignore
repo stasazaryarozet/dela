@@ -56,6 +56,9 @@ token.pickle
 **/telegram_credentials.json
 **/token.pickle
 **/credentials.json
+**/telegram_session.session
+olga_session.session
+anon.session
 
 # Зашифрованные backup можно (с паролем)
 !.gates/secrets_backup/*.tar.gz.gpg
