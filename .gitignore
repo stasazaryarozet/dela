@@ -39,3 +39,48 @@ Thumbs.db
 # Temporary
 *.tmp
 *.bak
+
+# ============================================================================
+# СЕКРЕТЫ (КРИТИЧНО: НИКОГДА НЕ КОММИТИТЬ)
+# ============================================================================
+.gates/secrets/
+.env
+*.pem
+*.key
+*_key.txt
+*_token.txt
+credentials.json
+token.pickle
+*.session
+*.session-journal
+**/telegram_credentials.json
+**/token.pickle
+**/credentials.json
+
+# Зашифрованные backup можно (с паролем)
+!.gates/secrets_backup/*.tar.gz.gpg
+!.gates/secrets_template/
+
+
+# macOS системные файлы
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Битые символические ссылки (автогенерация)
+.context/substance_latest.json
+.context/content_ready.txt
+
+# ============================================================================
+# ДАННЫЕ И МЕДИА (КРИТИЧНО: НЕ ИНДЕКСИРОВАТЬ)
+# ============================================================================
+found_passports/
+azaryarozet/
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.mov
+*.mp4
+*.avi
+*.m4v
