@@ -7,7 +7,7 @@
     <title>Последний шанс Пегаса — Ольга Розет</title>
     <meta name="description" content="Картина Ольги Розет. 2004 год. Частная коллекция. Прямая продажа.">
 
-    <!-- Fonts: Standard of Excellence -->
+    <!-- Fonts: Cormorant for elegance, congruent with art -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600&display=swap"
@@ -15,19 +15,15 @@
 
     <style>
         :root {
-            /* Palette: High-End Gallery with Physical Accuracy */
-            --bg-paper: #0a090a;
-            --frame-gold: #a78d66;
-            /* Balanced tone from the photo */
-            --frame-pale: #aa916b;
-            /* Micro highlight for miter joints */
-            --frame-deep: #a48961;
-            /* Micro shadow for miter joints */
-            --outer-mat-color: #f4efe6;
-            /* Lighter, warmer paper matching the painting */
-            --inner-mat-color: #2c2826;
-            /* Deeper, more brownish dark mat */
-
+            /* Immersive Palette: High-End Gallery */
+            --bg-paper: #0f0d0f;
+            --mat-color: #544956;
+            --frame-color: #c4a16b;
+            --frame-shadow: #8b6d43;
+            --frame-highlight: #e4cc9f;
+            --slip-color: #fcf6e8;
+            /* High-contrast white-gold for visibility */
+            --spacer-color: #1a181a;
             --text-ink: #f2f0eb;
             --text-muted: #8d848e;
             --accent-gold: #c4a16b;
@@ -40,118 +36,77 @@
             box-sizing: border-box;
         }
 
+        html,
+        body {
+            height: 100%;
+        }
+
         body {
             font-family: 'Cormorant Garamond', Georgia, serif;
-            background: var(--inner-mat-color);
+            background: var(--bg-paper);
             color: var(--text-ink);
             line-height: 1.5;
             -webkit-font-smoothing: antialiased;
-            overflow-x: hidden;
-            transition: background 0.8s cubic-bezier(0.4, 0, 0.2, 1);
-        }
-
-        body.is-canvas-mode {
-            background: #000;
         }
 
         .container {
             display: grid;
             grid-template-columns: 1fr 480px;
             min-height: 100vh;
-            transition: all 0.8s cubic-bezier(0.4, 0, 0.2, 1);
-        }
-
-        body.is-canvas-mode .container {
-            grid-template-columns: 1fr;
         }
 
         /* ARTWORK SECTION */
         .artwork-section {
+            background: var(--bg-paper);
+            /* Seamless */
             display: flex;
             flex-direction: column;
+            /* Stack image and controls */
             align-items: center;
             justify-content: center;
-            padding: 3rem;
+            padding: 4rem;
             position: relative;
-            min-height: 100vh;
         }
 
-        body.is-canvas-mode .artwork-section {
+        .artwork-wrapper {
+            position: relative;
+            max-width: 90%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.7s cubic-bezier(0.23, 1, 0.32, 1);
+
+            /* Realistic Wooden Frame with Mitered Joints */
+            background: var(--mat-color);
             padding: 0;
-            cursor: zoom-out;
-        }
-
-        body.is-canvas-mode .info-panel {
-            display: none;
-        }
-
-        /* THE TRIPLE-LAYERED FRAME ENGINE */
-        .frame-system {
-            position: relative;
-            display: inline-block;
-            transition: all 0.8s cubic-bezier(0.2, 1, 0.3, 1);
-            line-height: 0;
-            cursor: zoom-in;
-        }
-
-        /* 1. OUTER WOODEN FRAME */
-        .outer-frame {
-            border: 42px solid var(--frame-gold);
-            /* Soft, nearly monochrome miter joints */
+            border: 42px solid var(--frame-color);
             border-image: conic-gradient(from 45deg,
-                    var(--frame-pale) 90deg,
-                    var(--frame-gold) 90deg 180deg,
-                    var(--frame-deep) 180deg 270deg,
-                    var(--frame-gold) 270deg) 1;
-            /* Soft, gallery-standard shadows */
+                    var(--frame-highlight) 90deg,
+                    var(--frame-color) 90deg 180deg,
+                    var(--frame-shadow) 180deg 270deg,
+                    var(--frame-color) 270deg) 1;
+
             box-shadow:
-                0 40px 120px rgba(0, 0, 0, 0.25),
-                0 10px 40px rgba(0, 0, 0, 0.1),
-                inset 0 0 1px rgba(0, 0, 0, 0.3);
-            position: relative;
+                0 60px 100px rgba(0, 0, 0, 0.95),
+                inset 0 0 40px rgba(0, 0, 0, 0.6);
         }
 
-        /* Physical Texture Overlays (Noise) */
-        .outer-frame::before,
-        .outer-paper-mat::before,
-        .inner-dark-mat::before {
-            content: "";
+        /* The Light Slip / Fillet (Physical light border before frame) */
+        .artwork-wrapper::before {
+            content: '';
             position: absolute;
             top: 0;
             left: 0;
             right: 0;
             bottom: 0;
-            opacity: 0.03;
+            border: 4px solid var(--slip-color);
+            box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.2);
+            z-index: 10;
             pointer-events: none;
-            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.6' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
         }
 
-        /* 2. THE LIGHT "PAPER" MAT (Outer Mat) */
-        .outer-paper-mat {
-            padding: 16px;
-            /* Wider Light Edging as requested */
-            background: var(--outer-mat-color);
-            position: relative;
-            box-shadow:
-                inset 0 0 10px rgba(0, 0, 0, 0.1),
-                0 0 2px rgba(0, 0, 0, 0.2);
-            /* Depth effect */
-        }
-
-        /* 3. THE DARK INNER MAT */
-        .inner-dark-mat {
-            padding: 55px;
-            /* Slightly adjusted for balance */
-            background: var(--inner-mat-color);
-            box-shadow:
-                inset 0 0 20px rgba(0, 0, 0, 0.4),
-                0 0 1px rgba(0, 0, 0, 0.2);
-            /* Bevel effect */
-            position: relative;
-        }
-
-        /* Frame Varnish/Highlight Gradient + Wood Grain Hint */
-        .outer-frame::after {
+        /* The Profile / Grain / Varnish effect */
+        .artwork-wrapper::after {
             content: '';
             position: absolute;
             top: -42px;
@@ -159,69 +114,43 @@
             right: -42px;
             bottom: -42px;
             pointer-events: none;
-            background:
-                linear-gradient(135deg, rgba(255, 255, 255, 0.08) 0%, transparent 40%, rgba(0, 0, 0, 0.15) 100%),
-                repeating-linear-gradient(90deg, transparent, transparent 1px, rgba(0, 0, 0, 0.02) 1px, transparent 2px);
-            z-index: 10;
-            opacity: 0.6;
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), transparent 40%, rgba(0, 0, 0, 0.2));
+            z-index: 11;
         }
 
-        /* The Image */
-        .frame-system img {
-            max-height: 55vh;
-            width: auto;
-            max-width: 100%;
-            display: block;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-            transition: all 0.8s cubic-bezier(0.2, 1, 0.3, 1);
-        }
-
-        /* CANVAS VIEW STATE (is-canvas) */
-        .frame-system.is-canvas .outer-frame {
-            border: 6px solid #1a181a;
+        .artwork-wrapper.is-canvas {
+            border: 5px solid #222;
+            padding: 0;
             border-image: none;
             box-shadow: 0 40px 80px rgba(0, 0, 0, 0.8);
         }
 
-        .frame-system.is-canvas .outer-paper-mat,
-        .frame-system.is-canvas .inner-dark-mat {
-            padding: 0;
-            background: transparent;
-            box-shadow: none;
-        }
-
-        .frame-system.is-canvas .outer-frame::after {
+        .artwork-wrapper.is-canvas::before,
+        .artwork-wrapper.is-canvas::after {
             display: none;
         }
 
-        .frame-system.is-canvas img {
-            max-height: 95vh;
-            max-width: 95vw;
-            box-shadow: 0 50px 100px rgba(0, 0, 0, 0.5);
-            cursor: default;
+        .artwork-wrapper img {
+            width: auto;
+            max-width: 100%;
+            max-height: 60vh;
+            display: block;
+            transition: transform 0.7s cubic-bezier(0.23, 1, 0.32, 1);
         }
 
-        body.is-canvas-mode .view-controls {
-            position: fixed;
-            bottom: 2rem;
-            left: 50%;
-            transform: translateX(-50%);
-            z-index: 100;
-            background: rgba(0, 0, 0, 0.4);
-            padding: 0.5rem 1.5rem;
-            border-radius: 2rem;
-            backdrop-filter: blur(10px);
+        .artwork-wrapper.is-canvas img {
+            max-height: 80vh;
         }
 
-        /* TYPOGRAPHY & INTERFACE */
+        /* View Controls */
         .view-controls {
             margin-top: 3.5rem;
             text-align: center;
             font-size: 0.85rem;
             color: var(--text-muted);
-            letter-spacing: 0.3em;
+            letter-spacing: 0.25em;
             text-transform: uppercase;
-            opacity: 0.6;
+            opacity: 0.5;
             transition: opacity 0.3s;
         }
 
@@ -232,21 +161,33 @@
         .view-btn {
             background: none;
             border: none;
-            font-family: inherit;
+            font-family: 'Cormorant Garamond', serif;
             font-weight: 500;
             font-size: inherit;
             color: inherit;
             cursor: pointer;
-            padding: 0.5rem 1.5rem;
+            padding: 0 1.5rem;
             border-bottom: 1px solid transparent;
-            transition: all 0.3s;
+            transition: all 0.2s;
+        }
+
+        .view-btn:hover {
+            color: var(--text-ink);
         }
 
         .view-btn.active {
             color: var(--text-ink);
             border-bottom-color: var(--accent-gold);
+            opacity: 1;
         }
 
+        .separator {
+            user-select: none;
+            opacity: 0.5;
+            margin: 0 0.25rem;
+        }
+
+        /* INFO PANEL */
         .info-panel {
             background: var(--bg-paper);
             padding: 4rem 3.5rem;
@@ -256,23 +197,29 @@
             border-left: 1px solid rgba(255, 255, 255, 0.05);
         }
 
+        /* Typography: The Highest Standard */
         .title {
-            font-size: 4rem;
+            font-size: 3.8rem;
             font-weight: 300;
-            line-height: 1.1;
-            margin-bottom: 1.5rem;
+            /* Lighter for elegance */
+            line-height: 1.05;
+            margin-bottom: 0.8rem;
+            color: var(--text-ink);
             letter-spacing: -0.02em;
         }
 
         .meta {
-            font-size: 0.85rem;
+            font-size: 0.8rem;
             text-transform: uppercase;
             letter-spacing: 0.4em;
+            /* Wide tracking for prestige */
             color: var(--accent-gold);
             margin-bottom: 5rem;
+            display: block;
             opacity: 0.8;
         }
 
+        /* Content Modules */
         .module {
             margin-bottom: 3rem;
         }
@@ -280,23 +227,25 @@
         .fact {
             font-size: 1.4rem;
             font-weight: 400;
+            color: var(--text-ink);
             margin-bottom: 0.5rem;
         }
 
         .price-display {
-            font-size: 3.5rem;
-            font-weight: 300;
+            font-size: 3rem;
+            font-weight: 400;
             display: block;
             margin-bottom: 0.25rem;
+            line-height: 1;
         }
 
         .price-note {
-            font-size: 1.1rem;
+            font-size: 1.15rem;
             color: var(--accent-gold);
             font-style: italic;
-            opacity: 0.9;
         }
 
+        /* Logistics */
         .logistics {
             font-size: 1.05rem;
             color: var(--text-muted);
@@ -307,8 +256,8 @@
             color: var(--text-ink);
             font-weight: 600;
             text-transform: uppercase;
-            font-size: 0.8rem;
-            letter-spacing: 0.1em;
+            font-size: 0.85rem;
+            letter-spacing: 0.05em;
             margin-right: 0.5rem;
         }
 
@@ -317,11 +266,13 @@
             margin-top: 0.5rem;
             font-size: 0.9rem;
             color: var(--accent-red);
+            opacity: 0.9;
         }
 
+        /* Contact */
         .contact-area {
             margin-top: auto;
-            padding-top: 3rem;
+            padding-top: 2rem;
             border-top: 1px solid rgba(255, 255, 255, 0.1);
         }
 
@@ -334,35 +285,40 @@
         }
 
         .email-link {
-            font-size: 2rem;
+            font-size: 1.8rem;
             color: var(--text-ink);
             text-decoration: none;
             border-bottom: 1px solid var(--accent-gold);
-            transition: color 0.3s;
+            padding-bottom: 2px;
+            transition: all 0.2s;
         }
 
         .email-link:hover {
+            border-color: transparent;
             color: var(--accent-gold);
         }
 
         .organizer {
             margin-top: 1rem;
-            font-size: 1.1rem;
+            font-size: 1rem;
             color: var(--text-muted);
         }
 
+        /* Translate Widget Dark Mode */
         #google_translate_element {
             filter: invert(1) hue-rotate(180deg);
         }
 
-        @media (max-width: 1100px) {
+        /* Responsive */
+        @media (max-width: 1000px) {
             .container {
                 grid-template-columns: 1fr;
             }
 
             .artwork-section {
-                min-height: 60vh;
-                padding: 1rem;
+                padding: 2rem;
+                background: var(--bg-paper);
+                min-height: 50vh;
             }
 
             .info-panel {
@@ -371,7 +327,7 @@
             }
 
             .title {
-                font-size: 3rem;
+                font-size: 2.5rem;
             }
         }
     </style>
@@ -380,20 +336,13 @@
 <body>
     <div class="container">
         <section class="artwork-section">
-            <div class="frame-system">
-                <div class="outer-frame">
-                    <div class="outer-paper-mat">
-                        <div class="inner-dark-mat">
-                            <img id="main-artwork" src="artwork_canvas_clean.jpg"
-                                alt="Последний шанс Пегаса — Ольга Розет">
-                        </div>
-                    </div>
-                </div>
+            <div class="artwork-wrapper">
+                <img id="main-artwork" src="artwork_master.jpg" alt="Последний шанс Пегаса — Ольга Розет">
             </div>
 
             <div class="view-controls">
                 <button class="view-btn active" onclick="switchView('framed')">В раме</button>
-                <span style="opacity:0.3">/</span>
+                <span class="separator">/</span>
                 <button class="view-btn" onclick="switchView('canvas')">Холст</button>
             </div>
         </section>
@@ -413,7 +362,7 @@
 
             <div class="module logistics">
                 <p><strong>Самовывоз</strong> Москва</p>
-                <p style="margin-top: 0.75rem;"><strong>Доставка</strong> Организую в СНГ, Китай, ОАЭ, Турцию, Сербию,
+                <p style="margin-top: 0.5rem;"><strong>Доставка</strong> Организую в СНГ, Китай, ОАЭ, Турцию, Сербию,
                     120+ стран</p>
                 <span class="restriction">ЕС/США/Великобритания: ограничения на грузы >€300</span>
             </div>
@@ -423,6 +372,9 @@
                 <a href="mailto:azrozet@gmail.com" class="email-link">azrozet@gmail.com</a>
                 <p class="organizer">Азарья Розет</p>
             </div>
+
+            <!-- Preload canvas image for instant switch -->
+            <img src="artwork_canvas.jpg" style="display:none;" alt="">
         </section>
     </div>
 
@@ -439,18 +391,18 @@
         }
 
         function switchView(mode) {
-            const system = document.querySelector('.frame-system');
+            const img = document.getElementById('main-artwork');
+            const wrapper = img.parentElement;
             const btns = document.querySelectorAll('.view-btn');
-            const body = document.body;
 
             if (mode === 'framed') {
-                system.classList.remove('is-canvas');
-                body.classList.remove('is-canvas-mode');
+                img.src = 'artwork_master.jpg';
+                wrapper.classList.remove('is-canvas');
                 btns[0].classList.add('active');
                 btns[1].classList.remove('active');
             } else {
-                system.classList.add('is-canvas');
-                body.classList.add('is-canvas-mode');
+                img.src = 'artwork_canvas.jpg';
+                wrapper.classList.add('is-canvas');
                 btns[0].classList.remove('active');
                 btns[1].classList.add('active');
             }
