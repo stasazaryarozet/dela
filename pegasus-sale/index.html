@@ -17,12 +17,16 @@
         :root {
             /* Palette: High-End Gallery with Physical Accuracy */
             --bg-paper: #0a090a;
-            --frame-gold: #a78757;
-            /* Monochrome tone between middle and right */
-            --outer-mat-color: #ebdec4;
-            /* Extracted Beige Paper */
-            --inner-mat-color: #544857;
-            /* Extracted Warm Dark Mat */
+            --frame-gold: #a78d66;
+            /* Balanced tone from the photo */
+            --frame-pale: #aa916b;
+            /* Micro highlight for miter joints */
+            --frame-deep: #a48961;
+            /* Micro shadow for miter joints */
+            --outer-mat-color: #ede2d0;
+            /* Refined Paper color */
+            --inner-mat-color: #3b353b;
+            /* Deeper Dark Mat */
 
             --text-ink: #f2f0eb;
             --text-muted: #8d848e;
@@ -73,19 +77,41 @@
         /* 1. OUTER WOODEN FRAME */
         .outer-frame {
             border: 42px solid var(--frame-gold);
+            /* Soft, nearly monochrome miter joints */
+            border-image: conic-gradient(from 45deg,
+                    var(--frame-pale) 90deg,
+                    var(--frame-gold) 90deg 180deg,
+                    var(--frame-deep) 180deg 270deg,
+                    var(--frame-gold) 270deg) 1;
+            /* Soft, gallery-standard shadows */
             box-shadow:
-                0 80px 140px rgba(0, 0, 0, 0.95),
-                inset 0 0 15px rgba(0, 0, 0, 0.2);
+                0 40px 120px rgba(0, 0, 0, 0.25),
+                0 10px 40px rgba(0, 0, 0, 0.1),
+                inset 0 0 1px rgba(0, 0, 0, 0.3);
             position: relative;
+        }
+
+        /* Physical Texture Overlays (Noise) */
+        .outer-frame::before,
+        .inner-dark-mat::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            opacity: 0.03;
+            pointer-events: none;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.6' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
         }
 
         /* 2. THE LIGHT "PAPER" MAT (Outer Mat) */
         .outer-paper-mat {
-            padding: 5px;
-            /* Substantially narrowed Light Edging */
+            padding: 3px;
+            /* Even narrower Light Edging */
             background: var(--outer-mat-color);
             position: relative;
-            box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.05);
+            box-shadow: inset 0 0 8px rgba(0, 0, 0, 0.06);
             /* Paper texture shadow */
         }
 
@@ -95,13 +121,13 @@
             /* Wide Dark Mat */
             background: var(--inner-mat-color);
             box-shadow:
-                inset 0 0 30px rgba(0, 0, 0, 0.6),
-                0 0 2px rgba(0, 0, 0, 0.3);
+                inset 0 0 20px rgba(0, 0, 0, 0.4),
+                0 0 1px rgba(0, 0, 0, 0.2);
             /* Bevel effect */
             position: relative;
         }
 
-        /* Frame Varnish/Highlight Gradient */
+        /* Frame Varnish/Highlight Gradient + Wood Grain Hint */
         .outer-frame::after {
             content: '';
             position: absolute;
@@ -110,8 +136,11 @@
             right: -42px;
             bottom: -42px;
             pointer-events: none;
-            background: linear-gradient(135deg, rgba(255, 255, 255, 0.12) 0%, transparent 40%, rgba(0, 0, 0, 0.25) 100%);
+            background:
+                linear-gradient(135deg, rgba(255, 255, 255, 0.08) 0%, transparent 40%, rgba(0, 0, 0, 0.15) 100%),
+                repeating-linear-gradient(90deg, transparent, transparent 1px, rgba(0, 0, 0, 0.02) 1px, transparent 2px);
             z-index: 10;
+            opacity: 0.6;
         }
 
         /* The Image */
