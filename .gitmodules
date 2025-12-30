@@ -14,3 +14,6 @@
 [submodule "olga/consultations"]
 	path = olga/consultations
 	url = git@github.com:stasazaryarozet/olga-consultations.git
+[submodule "olga/olgarozet.ru"]
+	path = olga/olgarozet.ru
+	url = https://github.com/stasazaryarozet/olgarozet.ru.git

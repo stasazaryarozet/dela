@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Последний шанс Пегаса — Ольга Розет</title>
+    <meta name="description" content="Картина Ольги Розет. 2004 год. Частная коллекция. Прямая продажа.">
+
+    <!-- Fonts: Standard of Excellence -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
+
+    <style>
+        :root {
+            /* Palette: High-End Gallery with Physical Accuracy */
+            --bg-paper: #0a090a;
+            --frame-gold: #a78757;
+            /* Monochrome tone between middle and right */
+            --outer-mat-color: #ebdec4;
+            /* Extracted Beige Paper */
+            --inner-mat-color: #544857;
+            /* Extracted Warm Dark Mat */
+
+            --text-ink: #f2f0eb;
+            --text-muted: #8d848e;
+            --accent-gold: #c4a16b;
+            --accent-red: #ff8a80;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            background: var(--bg-paper);
+            color: var(--text-ink);
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+            overflow-x: hidden;
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: 1fr 480px;
+            min-height: 100vh;
+        }
+
+        /* ARTWORK SECTION */
+        .artwork-section {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 3rem;
+            position: relative;
+        }
+
+        /* THE TRIPLE-LAYERED FRAME ENGINE */
+        .frame-system {
+            position: relative;
+            display: inline-block;
+            transition: all 0.8s cubic-bezier(0.2, 1, 0.3, 1);
+            line-height: 0;
+            cursor: zoom-in;
+        }
+
+        /* 1. OUTER WOODEN FRAME */
+        .outer-frame {
+            border: 42px solid var(--frame-gold);
+            box-shadow:
+                0 80px 140px rgba(0, 0, 0, 0.95),
+                inset 0 0 15px rgba(0, 0, 0, 0.2);
+            position: relative;
+        }
+
+        /* 2. THE LIGHT "PAPER" MAT (Outer Mat) */
+        .outer-paper-mat {
+            padding: 5px;
+            /* Substantially narrowed Light Edging */
+            background: var(--outer-mat-color);
+            position: relative;
+            box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.05);
+            /* Paper texture shadow */
+        }
+
+        /* 3. THE DARK INNER MAT */
+        .inner-dark-mat {
+            padding: 65px;
+            /* Wide Dark Mat */
+            background: var(--inner-mat-color);
+            box-shadow:
+                inset 0 0 30px rgba(0, 0, 0, 0.6),
+                0 0 2px rgba(0, 0, 0, 0.3);
+            /* Bevel effect */
+            position: relative;
+        }
+
+        /* Frame Varnish/Highlight Gradient */
+        .outer-frame::after {
+            content: '';
+            position: absolute;
+            top: -42px;
+            left: -42px;
+            right: -42px;
+            bottom: -42px;
+            pointer-events: none;
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.12) 0%, transparent 40%, rgba(0, 0, 0, 0.25) 100%);
+            z-index: 10;
+        }
+
+        /* The Image */
+        .frame-system img {
+            max-height: 55vh;
+            width: auto;
+            max-width: 100%;
+            display: block;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+            transition: all 0.8s cubic-bezier(0.2, 1, 0.3, 1);
+        }
+
+        /* CANVAS VIEW STATE (is-canvas) */
+        .frame-system.is-canvas .outer-frame {
+            border: 6px solid #1a181a;
+            border-image: none;
+            box-shadow: 0 40px 80px rgba(0, 0, 0, 0.8);
+        }
+
+        .frame-system.is-canvas .outer-paper-mat,
+        .frame-system.is-canvas .inner-dark-mat {
+            padding: 0;
+            background: transparent;
+            box-shadow: none;
+        }
+
+        .frame-system.is-canvas .outer-frame::after {
+            display: none;
+        }
+
+        .frame-system.is-canvas img {
+            max-height: 80vh;
+            box-shadow: none;
+        }
+
+        /* TYPOGRAPHY & INTERFACE */
+        .view-controls {
+            margin-top: 3.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            opacity: 0.6;
+            transition: opacity 0.3s;
+        }
+
+        .view-controls:hover {
+            opacity: 1;
+        }
+
+        .view-btn {
+            background: none;
+            border: none;
+            font-family: inherit;
+            font-weight: 500;
+            font-size: inherit;
+            color: inherit;
+            cursor: pointer;
+            padding: 0.5rem 1.5rem;
+            border-bottom: 1px solid transparent;
+            transition: all 0.3s;
+        }
+
+        .view-btn.active {
+            color: var(--text-ink);
+            border-bottom-color: var(--accent-gold);
+        }
+
+        .info-panel {
+            background: var(--bg-paper);
+            padding: 4rem 3.5rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            border-left: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .title {
+            font-size: 4rem;
+            font-weight: 300;
+            line-height: 1.1;
+            margin-bottom: 1.5rem;
+            letter-spacing: -0.02em;
+        }
+
+        .meta {
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.4em;
+            color: var(--accent-gold);
+            margin-bottom: 5rem;
+            opacity: 0.8;
+        }
+
+        .module {
+            margin-bottom: 3rem;
+        }
+
+        .fact {
+            font-size: 1.4rem;
+            font-weight: 400;
+            margin-bottom: 0.5rem;
+        }
+
+        .price-display {
+            font-size: 3.5rem;
+            font-weight: 300;
+            display: block;
+            margin-bottom: 0.25rem;
+        }
+
+        .price-note {
+            font-size: 1.1rem;
+            color: var(--accent-gold);
+            font-style: italic;
+            opacity: 0.9;
+        }
+
+        .logistics {
+            font-size: 1.05rem;
+            color: var(--text-muted);
+            line-height: 1.6;
+        }
+
+        .logistics strong {
+            color: var(--text-ink);
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.8rem;
+            letter-spacing: 0.1em;
+            margin-right: 0.5rem;
+        }
+
+        .restriction {
+            display: block;
+            margin-top: 0.5rem;
+            font-size: 0.9rem;
+            color: var(--accent-red);
+        }
+
+        .contact-area {
+            margin-top: auto;
+            padding-top: 3rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .contact-label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+        }
+
+        .email-link {
+            font-size: 2rem;
+            color: var(--text-ink);
+            text-decoration: none;
+            border-bottom: 1px solid var(--accent-gold);
+            transition: color 0.3s;
+        }
+
+        .email-link:hover {
+            color: var(--accent-gold);
+        }
+
+        .organizer {
+            margin-top: 1rem;
+            font-size: 1.1rem;
+            color: var(--text-muted);
+        }
+
+        #google_translate_element {
+            filter: invert(1) hue-rotate(180deg);
+        }
+
+        @media (max-width: 1100px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+
+            .artwork-section {
+                min-height: 60vh;
+                padding: 1rem;
+            }
+
+            .info-panel {
+                padding: 3rem 2rem;
+                border: none;
+            }
+
+            .title {
+                font-size: 3rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <section class="artwork-section">
+            <div class="frame-system">
+                <div class="outer-frame">
+                    <div class="outer-paper-mat">
+                        <div class="inner-dark-mat">
+                            <img id="main-artwork" src="artwork_canvas_clean.jpg"
+                                alt="Последний шанс Пегаса — Ольга Розет">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="view-controls">
+                <button class="view-btn active" onclick="switchView('framed')">В раме</button>
+                <span style="opacity:0.3">/</span>
+                <button class="view-btn" onclick="switchView('canvas')">Холст</button>
+            </div>
+        </section>
+
+        <section class="info-panel">
+            <h1 class="title">Последний шанс Пегаса</h1>
+            <p class="meta">Ольга Розет, 2004</p>
+
+            <div class="module">
+                <p class="fact">Частная коллекция. Прямая продажа.</p>
+            </div>
+
+            <div class="module">
+                <span class="price-display">€10,000</span>
+                <p class="price-note">Вся сумма пойдёт Ольге — Отдохнуть и Порисовать.</p>
+            </div>
+
+            <div class="module logistics">
+                <p><strong>Самовывоз</strong> Москва</p>
+                <p style="margin-top: 0.75rem;"><strong>Доставка</strong> Организую в СНГ, Китай, ОАЭ, Турцию, Сербию,
+                    120+ стран</p>
+                <span class="restriction">ЕС/США/Великобритания: ограничения на грузы >€300</span>
+            </div>
+
+            <div class="contact-area">
+                <div class="contact-label">Связаться со мной</div>
+                <a href="mailto:azrozet@gmail.com" class="email-link">azrozet@gmail.com</a>
+                <p class="organizer">Азарья Розет</p>
+            </div>
+        </section>
+    </div>
+
+    <div id="google_translate_element" style="position:fixed;bottom:1rem;right:1rem;opacity:0.6;"></div>
+
+    <script>
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                pageLanguage: 'ru',
+                includedLanguages: 'en,de,fr,zh-CN,es,ar,he',
+                layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+                autoDisplay: true
+            }, 'google_translate_element');
+        }
+
+        function switchView(mode) {
+            const system = document.querySelector('.frame-system');
+            const btns = document.querySelectorAll('.view-btn');
+
+            if (mode === 'framed') {
+                system.classList.remove('is-canvas');
+                btns[0].classList.add('active');
+                btns[1].classList.remove('active');
+            } else {
+                system.classList.add('is-canvas');
+                btns[0].classList.remove('active');
+                btns[1].classList.add('active');
+            }
+        }
+    </script>
+    <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</body>
+
+</html>
