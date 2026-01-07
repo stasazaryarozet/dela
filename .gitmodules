@@ -17,3 +17,6 @@
 [submodule "olga/olgarozet.ru"]
 	path = olga/olgarozet.ru
 	url = https://github.com/stasazaryarozet/olgarozet.ru.git
+[submodule "azarya/stasazaryarozet"]
+	path = azarya/stasazaryarozet
+	url = https://github.com/stasazaryarozet/stasazaryarozet.ru.git

@@ -87,3 +87,12 @@ azaryarozet/
 *.mp4
 *.avi
 *.m4v
+
+node_modules/
+
+# Auth files (local only)
+*.session
+.gates/*.session
+.gates/google/token.json
+olga/.telegram
+parisinjanuary.ru
